@@ -1,0 +1,459 @@
+MODEL 1
+REMARK VINA RESULT:    -7.370      0.000      0.000
+REMARK INTER + INTRA:          -9.662
+REMARK INTER:                  -9.093
+REMARK INTRA:                  -0.569
+REMARK UNBOUND:                -0.569
+REMARK  Name = structures/xdock/6OA1_M0P.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_7  and  S22_22
+REMARK    2  A    between atoms: C8_8  and  C9_9
+REMARK    3  A    between atoms: C8_8  and  S22_22
+REMARK    4  A    between atoms: C9_9  and  N15_15
+REMARK    5  A    between atoms: C11_11  and  N17_17
+REMARK    6  A    between atoms: C13_13  and  N18_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   M0P A1001      25.711   4.673  -0.193  1.00  0.00    +0.000 C 
+ATOM      2 C5   M0P A1001      25.935   3.272   0.158  1.00  0.00    +0.000 C 
+ATOM      3 C6   M0P A1001      24.939   2.512   0.896  1.00  0.00    +0.000 C 
+ATOM      4 C7   M0P A1001      26.607   1.264   0.524  1.00  0.00    +0.000 C 
+ATOM      5 C11  M0P A1001      22.772   2.289   2.006  1.00  0.00    +0.000 C 
+ATOM      6 C12  M0P A1001      23.518   4.430   0.921  1.00  0.00    +0.000 C 
+ATOM      7 C13  M0P A1001      24.240   6.629  -0.071  1.00  0.00    +0.000 C 
+ATOM      8 N14  M0P A1001      25.407   1.199   1.037  1.00  0.00    +0.000 NA
+ATOM      9 N16  M0P A1001      26.943   2.404  -0.035  1.00  0.00    +0.000 NA
+ATOM     10 N17  M0P A1001      23.746   3.062   1.243  1.00  0.00    +0.000 N 
+ATOM     11 N18  M0P A1001      24.474   5.205   0.188  1.00  0.00    +0.000 N 
+ATOM     12 O19  M0P A1001      26.566   5.413  -0.819  1.00  0.00    +0.000 OA
+ATOM     13 O21  M0P A1001      22.465   4.977   1.300  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  14
+ATOM     14 S22  M0P A1001      27.655  -0.138   0.505  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C8   M0P A1001      29.353   0.455   0.589  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C9   M0P A1001      30.083   0.772  -0.649  1.00  0.00    +0.000 C 
+BRANCH  16  21
+ATOM     17 C1   M0P A1001      30.494   2.776   0.457  1.00  0.00    +0.000 C 
+ATOM     18 C2   M0P A1001      31.228   4.104   0.346  1.00  0.00    +0.000 C 
+ATOM     19 C3   M0P A1001      30.646   4.437  -1.900  1.00  0.00    +0.000 C 
+ATOM     20 C10  M0P A1001      30.027   3.009  -1.929  1.00  0.00    +0.000 C 
+ATOM     21 N15  M0P A1001      30.603   2.142  -0.838  1.00  0.00    +0.000 NA
+ATOM     22 O20  M0P A1001      30.455   4.915  -0.538  1.00  0.00    +0.000 OA
+ENDBRANCH  16  21
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   4  14
+TORSDOF 4
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -7.143      1.983      2.491
+REMARK INTER + INTRA:          -9.383
+REMARK INTER:                  -9.223
+REMARK INTRA:                  -0.160
+REMARK UNBOUND:                -0.569
+REMARK  Name = structures/xdock/6OA1_M0P.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_7  and  S22_22
+REMARK    2  A    between atoms: C8_8  and  C9_9
+REMARK    3  A    between atoms: C8_8  and  S22_22
+REMARK    4  A    between atoms: C9_9  and  N15_15
+REMARK    5  A    between atoms: C11_11  and  N17_17
+REMARK    6  A    between atoms: C13_13  and  N18_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   M0P A1001      25.756   4.635  -0.192  1.00  0.00    +0.000 C 
+ATOM      2 C5   M0P A1001      25.962   3.231   0.156  1.00  0.00    +0.000 C 
+ATOM      3 C6   M0P A1001      24.957   2.483   0.893  1.00  0.00    +0.000 C 
+ATOM      4 C7   M0P A1001      26.610   1.215   0.520  1.00  0.00    +0.000 C 
+ATOM      5 C11  M0P A1001      22.788   2.285   2.004  1.00  0.00    +0.000 C 
+ATOM      6 C12  M0P A1001      23.561   4.418   0.922  1.00  0.00    +0.000 C 
+ATOM      7 C13  M0P A1001      24.309   6.609  -0.068  1.00  0.00    +0.000 C 
+ATOM      8 N14  M0P A1001      25.410   1.164   1.033  1.00  0.00    +0.000 NA
+ATOM      9 N16  M0P A1001      26.959   2.351  -0.038  1.00  0.00    +0.000 NA
+ATOM     10 N17  M0P A1001      23.771   3.048   1.242  1.00  0.00    +0.000 N 
+ATOM     11 N18  M0P A1001      24.526   5.182   0.190  1.00  0.00    +0.000 N 
+ATOM     12 O19  M0P A1001      26.620   5.366  -0.819  1.00  0.00    +0.000 OA
+ATOM     13 O21  M0P A1001      22.515   4.978   1.302  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  14
+ATOM     14 S22  M0P A1001      27.640  -0.200   0.499  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C8   M0P A1001      29.347   0.374   0.501  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C9   M0P A1001      29.915   0.997  -0.705  1.00  0.00    +0.000 C 
+BRANCH  16  21
+ATOM     17 C1   M0P A1001      31.823   0.106  -1.691  1.00  0.00    +0.000 C 
+ATOM     18 C2   M0P A1001      32.313  -0.957  -2.664  1.00  0.00    +0.000 C 
+ATOM     19 C3   M0P A1001      30.613  -0.559  -4.227  1.00  0.00    +0.000 C 
+ATOM     20 C10  M0P A1001      29.941   0.416  -3.217  1.00  0.00    +0.000 C 
+ATOM     21 N15  M0P A1001      30.381   0.127  -1.804  1.00  0.00    +0.000 NA
+ATOM     22 O20  M0P A1001      32.043  -0.456  -3.973  1.00  0.00    +0.000 OA
+ENDBRANCH  16  21
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   4  14
+TORSDOF 4
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -6.908      2.792      3.895
+REMARK INTER + INTRA:          -9.092
+REMARK INTER:                  -8.832
+REMARK INTRA:                  -0.260
+REMARK UNBOUND:                -0.569
+REMARK  Name = structures/xdock/6OA1_M0P.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_7  and  S22_22
+REMARK    2  A    between atoms: C8_8  and  C9_9
+REMARK    3  A    between atoms: C8_8  and  S22_22
+REMARK    4  A    between atoms: C9_9  and  N15_15
+REMARK    5  A    between atoms: C11_11  and  N17_17
+REMARK    6  A    between atoms: C13_13  and  N18_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   M0P A1001      25.034   2.408   0.921  1.00  0.00    +0.000 C 
+ATOM      2 C5   M0P A1001      26.010   3.174   0.148  1.00  0.00    +0.000 C 
+ATOM      3 C6   M0P A1001      25.763   4.560  -0.214  1.00  0.00    +0.000 C 
+ATOM      4 C7   M0P A1001      27.635   3.975  -1.007  1.00  0.00    +0.000 C 
+ATOM      5 C11  M0P A1001      24.400   6.589  -0.203  1.00  0.00    +0.000 C 
+ATOM      6 C12  M0P A1001      23.672   4.470   0.934  1.00  0.00    +0.000 C 
+ATOM      7 C13  M0P A1001      22.846   2.354   2.021  1.00  0.00    +0.000 C 
+ATOM      8 N14  M0P A1001      26.887   5.039  -0.900  1.00  0.00    +0.000 NA
+ATOM      9 N16  M0P A1001      27.211   2.897  -0.388  1.00  0.00    +0.000 NA
+ATOM     10 N17  M0P A1001      24.639   5.206   0.193  1.00  0.00    +0.000 N 
+ATOM     11 N18  M0P A1001      23.887   3.106   1.315  1.00  0.00    +0.000 N 
+ATOM     12 O19  M0P A1001      25.178   1.165   1.249  1.00  0.00    +0.000 OA
+ATOM     13 O21  M0P A1001      22.599   5.019   1.249  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  14
+ATOM     14 S22  M0P A1001      29.168   4.033  -1.850  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C8   M0P A1001      29.918   2.402  -1.723  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C9   M0P A1001      29.427   1.298  -2.566  1.00  0.00    +0.000 C 
+BRANCH  16  21
+ATOM     17 C1   M0P A1001      31.583   0.499  -2.223  1.00  0.00    +0.000 C 
+ATOM     18 C2   M0P A1001      32.440  -0.759  -2.258  1.00  0.00    +0.000 C 
+ATOM     19 C3   M0P A1001      31.513  -1.545  -4.262  1.00  0.00    +0.000 C 
+ATOM     20 C10  M0P A1001      30.476  -0.386  -4.212  1.00  0.00    +0.000 C 
+ATOM     21 N15  M0P A1001      30.311   0.140  -2.809  1.00  0.00    +0.000 NA
+ATOM     22 O20  M0P A1001      32.716  -1.016  -3.634  1.00  0.00    +0.000 OA
+ENDBRANCH  16  21
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   4  14
+TORSDOF 4
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -6.904      2.198      3.638
+REMARK INTER + INTRA:          -9.087
+REMARK INTER:                  -8.729
+REMARK INTRA:                  -0.358
+REMARK UNBOUND:                -0.569
+REMARK  Name = structures/xdock/6OA1_M0P.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_7  and  S22_22
+REMARK    2  A    between atoms: C8_8  and  C9_9
+REMARK    3  A    between atoms: C8_8  and  S22_22
+REMARK    4  A    between atoms: C9_9  and  N15_15
+REMARK    5  A    between atoms: C11_11  and  N17_17
+REMARK    6  A    between atoms: C13_13  and  N18_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   M0P A1001      25.069   2.454   0.915  1.00  0.00    +0.000 C 
+ATOM      2 C5   M0P A1001      26.066   3.381   0.382  1.00  0.00    +0.000 C 
+ATOM      3 C6   M0P A1001      25.733   4.770   0.114  1.00  0.00    +0.000 C 
+ATOM      4 C7   M0P A1001      27.754   4.440  -0.420  1.00  0.00    +0.000 C 
+ATOM      5 C11  M0P A1001      24.181   6.659   0.092  1.00  0.00    +0.000 C 
+ATOM      6 C12  M0P A1001      23.514   4.374   0.900  1.00  0.00    +0.000 C 
+ATOM      7 C13  M0P A1001      22.758   2.090   1.642  1.00  0.00    +0.000 C 
+ATOM      8 N14  M0P A1001      26.891   5.417  -0.337  1.00  0.00    +0.000 NA
+ATOM      9 N16  M0P A1001      27.356   3.270   0.022  1.00  0.00    +0.000 NA
+ATOM     10 N17  M0P A1001      24.500   5.268   0.393  1.00  0.00    +0.000 N 
+ATOM     11 N18  M0P A1001      23.810   3.002   1.184  1.00  0.00    +0.000 N 
+ATOM     12 O19  M0P A1001      25.290   1.200   1.147  1.00  0.00    +0.000 OA
+ATOM     13 O21  M0P A1001      22.355   4.790   1.088  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  14
+ATOM     14 S22  M0P A1001      29.381   4.724  -0.999  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C8   M0P A1001      30.493   3.717  -0.003  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C9   M0P A1001      31.153   2.542  -0.596  1.00  0.00    +0.000 C 
+BRANCH  16  21
+ATOM     17 C1   M0P A1001      29.618   1.403  -1.920  1.00  0.00    +0.000 C 
+ATOM     18 C2   M0P A1001      29.005   0.034  -2.177  1.00  0.00    +0.000 C 
+ATOM     19 C3   M0P A1001      28.762  -0.477   0.097  1.00  0.00    +0.000 C 
+ATOM     20 C10  M0P A1001      29.543   0.822   0.451  1.00  0.00    +0.000 C 
+ATOM     21 N15  M0P A1001      30.394   1.280  -0.707  1.00  0.00    +0.000 NA
+ATOM     22 O20  M0P A1001      28.051  -0.178  -1.138  1.00  0.00    +0.000 OA
+ENDBRANCH  16  21
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   4  14
+TORSDOF 4
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -6.870      1.364      2.514
+REMARK INTER + INTRA:          -9.045
+REMARK INTER:                  -8.469
+REMARK INTRA:                  -0.577
+REMARK UNBOUND:                -0.569
+REMARK  Name = structures/xdock/6OA1_M0P.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_7  and  S22_22
+REMARK    2  A    between atoms: C8_8  and  C9_9
+REMARK    3  A    between atoms: C8_8  and  S22_22
+REMARK    4  A    between atoms: C9_9  and  N15_15
+REMARK    5  A    between atoms: C11_11  and  N17_17
+REMARK    6  A    between atoms: C13_13  and  N18_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   M0P A1001      24.415   2.922   0.967  1.00  0.00    +0.000 C 
+ATOM      2 C5   M0P A1001      25.685   2.281   0.633  1.00  0.00    +0.000 C 
+ATOM      3 C6   M0P A1001      26.796   3.048   0.093  1.00  0.00    +0.000 C 
+ATOM      4 C7   M0P A1001      27.377   1.018   0.232  1.00  0.00    +0.000 C 
+ATOM      5 C11  M0P A1001      27.827   5.139  -0.644  1.00  0.00    +0.000 C 
+ATOM      6 C12  M0P A1001      25.473   5.030   0.232  1.00  0.00    +0.000 C 
+ATOM      7 C13  M0P A1001      23.082   4.977   1.018  1.00  0.00    +0.000 C 
+ATOM      8 N14  M0P A1001      27.883   2.181  -0.077  1.00  0.00    +0.000 NA
+ATOM      9 N16  M0P A1001      26.146   1.020   0.690  1.00  0.00    +0.000 NA
+ATOM     10 N17  M0P A1001      26.709   4.394  -0.076  1.00  0.00    +0.000 N 
+ATOM     11 N18  M0P A1001      24.362   4.306   0.774  1.00  0.00    +0.000 N 
+ATOM     12 O19  M0P A1001      23.379   2.294   1.422  1.00  0.00    +0.000 OA
+ATOM     13 O21  M0P A1001      25.345   6.249   0.010  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  14
+ATOM     14 S22  M0P A1001      28.340  -0.440   0.129  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C8   M0P A1001      29.819  -0.045  -0.820  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C9   M0P A1001      31.077   0.270  -0.124  1.00  0.00    +0.000 C 
+BRANCH  16  21
+ATOM     17 C1   M0P A1001      31.064   2.211   1.156  1.00  0.00    +0.000 C 
+ATOM     18 C2   M0P A1001      31.720   3.575   1.314  1.00  0.00    +0.000 C 
+ATOM     19 C3   M0P A1001      31.726   4.032  -0.985  1.00  0.00    +0.000 C 
+ATOM     20 C10  M0P A1001      31.222   2.584  -1.253  1.00  0.00    +0.000 C 
+ATOM     21 N15  M0P A1001      31.544   1.671  -0.096  1.00  0.00    +0.000 NA
+ATOM     22 O20  M0P A1001      31.157   4.409   0.301  1.00  0.00    +0.000 OA
+ENDBRANCH  16  21
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   4  14
+TORSDOF 4
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -6.696      2.110      3.597
+REMARK INTER + INTRA:          -8.831
+REMARK INTER:                  -8.881
+REMARK INTRA:                   0.051
+REMARK UNBOUND:                -0.569
+REMARK  Name = structures/xdock/6OA1_M0P.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_7  and  S22_22
+REMARK    2  A    between atoms: C8_8  and  C9_9
+REMARK    3  A    between atoms: C8_8  and  S22_22
+REMARK    4  A    between atoms: C9_9  and  N15_15
+REMARK    5  A    between atoms: C11_11  and  N17_17
+REMARK    6  A    between atoms: C13_13  and  N18_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   M0P A1001      24.490   4.242   0.387  1.00  0.00    +0.000 C 
+ATOM      2 C5   M0P A1001      25.433   3.126   0.427  1.00  0.00    +0.000 C 
+ATOM      3 C6   M0P A1001      26.821   3.300   0.030  1.00  0.00    +0.000 C 
+ATOM      4 C7   M0P A1001      26.519   1.279   0.582  1.00  0.00    +0.000 C 
+ATOM      5 C11  M0P A1001      28.691   4.658  -0.765  1.00  0.00    +0.000 C 
+ATOM      6 C12  M0P A1001      26.392   5.607  -0.404  1.00  0.00    +0.000 C 
+ATOM      7 C13  M0P A1001      24.093   6.601  -0.145  1.00  0.00    +0.000 C 
+ATOM      8 N14  M0P A1001      27.485   2.081   0.222  1.00  0.00    +0.000 NA
+ATOM      9 N16  M0P A1001      25.340   1.828   0.762  1.00  0.00    +0.000 NA
+ATOM     10 N17  M0P A1001      27.302   4.514  -0.346  1.00  0.00    +0.000 N 
+ATOM     11 N18  M0P A1001      25.021   5.474  -0.012  1.00  0.00    +0.000 N 
+ATOM     12 O19  M0P A1001      23.238   4.149   0.697  1.00  0.00    +0.000 OA
+ATOM     13 O21  M0P A1001      26.793   6.710  -0.822  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  14
+ATOM     14 S22  M0P A1001      26.827  -0.415   0.898  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C8   M0P A1001      28.357  -0.853   0.055  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C9   M0P A1001      29.562  -0.028   0.241  1.00  0.00    +0.000 C 
+BRANCH  16  21
+ATOM     17 C1   M0P A1001      29.839  -0.159  -2.063  1.00  0.00    +0.000 C 
+ATOM     18 C2   M0P A1001      30.829   0.094  -3.192  1.00  0.00    +0.000 C 
+ATOM     19 C3   M0P A1001      32.652  -0.811  -2.029  1.00  0.00    +0.000 C 
+ATOM     20 C10  M0P A1001      31.754  -0.941  -0.764  1.00  0.00    +0.000 C 
+ATOM     21 N15  M0P A1001      30.577   0.001  -0.831  1.00  0.00    +0.000 NA
+ATOM     22 O20  M0P A1001      31.755  -0.992  -3.161  1.00  0.00    +0.000 OA
+ENDBRANCH  16  21
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   4  14
+TORSDOF 4
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -6.689      3.306      4.263
+REMARK INTER + INTRA:          -8.822
+REMARK INTER:                  -8.543
+REMARK INTRA:                  -0.280
+REMARK UNBOUND:                -0.569
+REMARK  Name = structures/xdock/6OA1_M0P.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_7  and  S22_22
+REMARK    2  A    between atoms: C8_8  and  C9_9
+REMARK    3  A    between atoms: C8_8  and  S22_22
+REMARK    4  A    between atoms: C9_9  and  N15_15
+REMARK    5  A    between atoms: C11_11  and  N17_17
+REMARK    6  A    between atoms: C13_13  and  N18_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   M0P A1001      26.777   5.442  -0.354  1.00  0.00    +0.000 C 
+ATOM      2 C5   M0P A1001      27.871   4.481  -0.487  1.00  0.00    +0.000 C 
+ATOM      3 C6   M0P A1001      27.682   3.077  -0.160  1.00  0.00    +0.000 C 
+ATOM      4 C7   M0P A1001      29.688   3.370  -0.769  1.00  0.00    +0.000 C 
+ATOM      5 C11  M0P A1001      26.314   1.192   0.582  1.00  0.00    +0.000 C 
+ATOM      6 C12  M0P A1001      25.402   3.525   0.382  1.00  0.00    +0.000 C 
+ATOM      7 C13  M0P A1001      24.448   5.854   0.286  1.00  0.00    +0.000 C 
+ATOM      8 N14  M0P A1001      28.879   2.401  -0.433  1.00  0.00    +0.000 NA
+ATOM      9 N16  M0P A1001      29.157   4.567  -0.865  1.00  0.00    +0.000 NA
+ATOM     10 N17  M0P A1001      26.473   2.600   0.234  1.00  0.00    +0.000 N 
+ATOM     11 N18  M0P A1001      25.550   4.913   0.061  1.00  0.00    +0.000 N 
+ATOM     12 O19  M0P A1001      26.886   6.707  -0.598  1.00  0.00    +0.000 OA
+ATOM     13 O21  M0P A1001      24.306   3.124   0.819  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  14
+ATOM     14 S22  M0P A1001      31.362   3.048  -1.165  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C8   M0P A1001      32.103   4.603  -1.689  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C9   M0P A1001      32.738   5.487  -0.698  1.00  0.00    +0.000 C 
+BRANCH  16  21
+ATOM     17 C1   M0P A1001      34.419   6.272  -2.099  1.00  0.00    +0.000 C 
+ATOM     18 C2   M0P A1001      34.969   7.525  -2.765  1.00  0.00    +0.000 C 
+ATOM     19 C3   M0P A1001      34.712   8.862  -0.857  1.00  0.00    +0.000 C 
+ATOM     20 C10  M0P A1001      33.973   7.684  -0.157  1.00  0.00    +0.000 C 
+ATOM     21 N15  M0P A1001      33.408   6.717  -1.166  1.00  0.00    +0.000 NA
+ATOM     22 O20  M0P A1001      35.677   8.238  -1.751  1.00  0.00    +0.000 OA
+ENDBRANCH  16  21
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   4  14
+TORSDOF 4
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -6.659      1.312      1.758
+REMARK INTER + INTRA:          -8.785
+REMARK INTER:                  -8.700
+REMARK INTRA:                  -0.084
+REMARK UNBOUND:                -0.569
+REMARK  Name = structures/xdock/6OA1_M0P.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_7  and  S22_22
+REMARK    2  A    between atoms: C8_8  and  C9_9
+REMARK    3  A    between atoms: C8_8  and  S22_22
+REMARK    4  A    between atoms: C9_9  and  N15_15
+REMARK    5  A    between atoms: C11_11  and  N17_17
+REMARK    6  A    between atoms: C13_13  and  N18_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   M0P A1001      25.688   4.845  -0.190  1.00  0.00    +0.000 C 
+ATOM      2 C5   M0P A1001      26.004   3.456   0.138  1.00  0.00    +0.000 C 
+ATOM      3 C6   M0P A1001      25.048   2.613   0.838  1.00  0.00    +0.000 C 
+ATOM      4 C7   M0P A1001      26.808   1.493   0.480  1.00  0.00    +0.000 C 
+ATOM      5 C11  M0P A1001      22.880   2.214   1.894  1.00  0.00    +0.000 C 
+ATOM      6 C12  M0P A1001      23.495   4.425   0.869  1.00  0.00    +0.000 C 
+ATOM      7 C13  M0P A1001      24.080   6.690  -0.063  1.00  0.00    +0.000 C 
+ATOM      8 N14  M0P A1001      25.606   1.333   0.964  1.00  0.00    +0.000 NA
+ATOM      9 N16  M0P A1001      27.074   2.666  -0.049  1.00  0.00    +0.000 NA
+ATOM     10 N17  M0P A1001      23.812   3.070   1.169  1.00  0.00    +0.000 N 
+ATOM     11 N18  M0P A1001      24.409   5.281   0.173  1.00  0.00    +0.000 N 
+ATOM     12 O19  M0P A1001      26.502   5.657  -0.782  1.00  0.00    +0.000 OA
+ATOM     13 O21  M0P A1001      22.398   4.888   1.235  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  14
+ATOM     14 S22  M0P A1001      27.953   0.170   0.457  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C8   M0P A1001      28.742   0.164  -1.161  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C9   M0P A1001      29.571   1.307  -1.580  1.00  0.00    +0.000 C 
+BRANCH  16  21
+ATOM     17 C1   M0P A1001      31.330   0.343  -0.405  1.00  0.00    +0.000 C 
+ATOM     18 C2   M0P A1001      32.701   0.626   0.193  1.00  0.00    +0.000 C 
+ATOM     19 C3   M0P A1001      32.078   2.703   1.081  1.00  0.00    +0.000 C 
+ATOM     20 C10  M0P A1001      30.708   2.580   0.353  1.00  0.00    +0.000 C 
+ATOM     21 N15  M0P A1001      30.791   1.622  -0.809  1.00  0.00    +0.000 NA
+ATOM     22 O20  M0P A1001      32.468   1.339   1.407  1.00  0.00    +0.000 OA
+ENDBRANCH  16  21
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   4  14
+TORSDOF 4
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:    -6.604      2.864      3.725
+REMARK INTER + INTRA:          -8.717
+REMARK INTER:                  -8.418
+REMARK INTRA:                  -0.299
+REMARK UNBOUND:                -0.569
+REMARK  Name = structures/xdock/6OA1_M0P.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_7  and  S22_22
+REMARK    2  A    between atoms: C8_8  and  C9_9
+REMARK    3  A    between atoms: C8_8  and  S22_22
+REMARK    4  A    between atoms: C9_9  and  N15_15
+REMARK    5  A    between atoms: C11_11  and  N17_17
+REMARK    6  A    between atoms: C13_13  and  N18_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   M0P A1001      27.070   5.599  -0.354  1.00  0.00    +0.000 C 
+ATOM      2 C5   M0P A1001      28.085   4.557  -0.211  1.00  0.00    +0.000 C 
+ATOM      3 C6   M0P A1001      27.715   3.184   0.093  1.00  0.00    +0.000 C 
+ATOM      4 C7   M0P A1001      29.824   3.306  -0.044  1.00  0.00    +0.000 C 
+ATOM      5 C11  M0P A1001      26.068   1.434   0.540  1.00  0.00    +0.000 C 
+ATOM      6 C12  M0P A1001      25.414   3.818   0.086  1.00  0.00    +0.000 C 
+ATOM      7 C13  M0P A1001      24.697   6.204  -0.276  1.00  0.00    +0.000 C 
+ATOM      8 N14  M0P A1001      28.885   2.412   0.117  1.00  0.00    +0.000 NA
+ATOM      9 N16  M0P A1001      29.426   4.534  -0.285  1.00  0.00    +0.000 NA
+ATOM     10 N17  M0P A1001      26.413   2.812   0.209  1.00  0.00    +0.000 N 
+ATOM     11 N18  M0P A1001      25.742   5.178  -0.221  1.00  0.00    +0.000 N 
+ATOM     12 O19  M0P A1001      27.332   6.843  -0.593  1.00  0.00    +0.000 OA
+ATOM     13 O21  M0P A1001      24.220   3.515   0.268  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  14
+ATOM     14 S22  M0P A1001      31.513   2.848  -0.037  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C8   M0P A1001      31.592   1.080   0.297  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C9   M0P A1001      32.409   0.206  -0.561  1.00  0.00    +0.000 C 
+BRANCH  16  21
+ATOM     17 C1   M0P A1001      32.881  -1.013  -2.485  1.00  0.00    +0.000 C 
+ATOM     18 C2   M0P A1001      32.243  -1.815  -3.610  1.00  0.00    +0.000 C 
+ATOM     19 C3   M0P A1001      30.488  -0.296  -3.934  1.00  0.00    +0.000 C 
+ATOM     20 C10  M0P A1001      30.966   0.491  -2.679  1.00  0.00    +0.000 C 
+ATOM     21 N15  M0P A1001      31.794  -0.381  -1.770  1.00  0.00    +0.000 NA
+ATOM     22 O20  M0P A1001      31.695  -0.862  -4.520  1.00  0.00    +0.000 OA
+ENDBRANCH  16  21
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   4  14
+TORSDOF 4
+ENDMDL

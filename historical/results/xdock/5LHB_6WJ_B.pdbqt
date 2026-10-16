@@ -1,0 +1,630 @@
+MODEL 1
+REMARK VINA RESULT:    -8.009      0.000      0.000
+REMARK INTER + INTRA:         -12.315
+REMARK INTER:                 -11.287
+REMARK INTRA:                  -1.028
+REMARK UNBOUND:                -1.028
+REMARK  Name = structures/xdock/5LHB_6WJ.pdb
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C31_31
+REMARK    2  A    between atoms: C3_3  and  C28_28
+REMARK    3  A    between atoms: C5_5  and  S17_17
+REMARK    4  A    between atoms: C10_10  and  C11_11
+REMARK    5  A    between atoms: C10_10  and  N25_25
+REMARK    6  A    between atoms: C15_15  and  C20_20
+REMARK    7  A    between atoms: S17_17  and  N19_19
+REMARK    8  A    between atoms: N19_19  and  C20_20
+REMARK    9  A    between atoms: N27_27  and  C28_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   6WJ A1001      29.689   1.281  -3.391  1.00  0.00    +0.000 A 
+ATOM      2 C5   6WJ A1001      29.696   0.295  -4.372  1.00  0.00    +0.000 A 
+ATOM      3 C6   6WJ A1001      30.606  -0.751  -4.316  1.00  0.00    +0.000 A 
+ATOM      4 C7   6WJ A1001      31.470  -0.835  -3.258  1.00  0.00    +0.000 A 
+ATOM      5 C8   6WJ A1001      31.476   0.110  -2.233  1.00  0.00    +0.000 A 
+ATOM      6 C9   6WJ A1001      32.349   1.002  -0.105  1.00  0.00    +0.000 A 
+ATOM      7 C22  6WJ A1001      30.551   1.184  -2.316  1.00  0.00    +0.000 A 
+ATOM      8 C23  6WJ A1001      30.509   2.228  -1.282  1.00  0.00    +0.000 A 
+ATOM      9 O24  6WJ A1001      29.776   3.188  -1.270  1.00  0.00    +0.000 OA
+ATOM     10 N25  6WJ A1001      32.355   0.046  -1.106  1.00  0.00    +0.000 N 
+ATOM     11 O26  6WJ A1001      33.104   0.951   0.830  1.00  0.00    +0.000 OA
+ATOM     12 N27  6WJ A1001      31.437   2.079  -0.238  1.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   2  14
+ATOM     13 O16  6WJ A1001      27.272   0.227  -5.217  1.00  0.00    +0.000 OA
+ATOM     14 S17  6WJ A1001      28.591   0.412  -5.733  1.00  0.00    +0.000 S 
+ATOM     15 O18  6WJ A1001      28.880   1.615  -6.453  1.00  0.00    +0.000 OA
+BRANCH  14  16
+ATOM     16 N19  6WJ A1001      28.923  -0.862  -6.698  1.00  0.00    +0.000 NA
+ATOM     17  H   6WJ A1001      29.394  -1.534  -6.093  1.00  0.00    +0.000 HD
+BRANCH  16  20
+ATOM     18 C14  6WJ A1001      30.854  -1.829  -8.013  1.00  0.00    +0.000 C 
+ATOM     19 C15  6WJ A1001      28.917  -0.545  -9.213  1.00  0.00    +0.000 C 
+ATOM     20 C20  6WJ A1001      29.724  -0.852  -7.958  1.00  0.00    +0.000 C 
+ATOM     21 C21  6WJ A1001      31.132  -0.358  -7.848  1.00  0.00    +0.000 C 
+ENDBRANCH  16  20
+ENDBRANCH  14  16
+ENDBRANCH   2  14
+BRANCH  10  22
+ATOM     22 C10  6WJ A1001      33.367  -1.096  -1.007  1.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23 C11  6WJ A1001      32.837  -2.309  -0.262  1.00  0.00    +0.000 C 
+ATOM     24 C12  6WJ A1001      33.779  -3.095   0.577  1.00  0.00    +0.000 C 
+ATOM     25 C13  6WJ A1001      33.279  -3.667  -0.702  1.00  0.00    +0.000 C 
+ENDBRANCH  22  23
+ENDBRANCH  10  22
+BRANCH  12  26
+ATOM     26 C28  6WJ A1001      31.395   3.082   0.825  1.00  0.00    +0.000 C 
+BRANCH  26  29
+ATOM     27 C1   6WJ A1001      28.652   2.234   3.515  1.00  0.00    +0.000 A 
+ATOM     28 C2   6WJ A1001      30.831   2.072   3.118  1.00  0.00    +0.000 A 
+ATOM     29 C3   6WJ A1001      30.493   2.673   1.950  1.00  0.00    +0.000 A 
+ATOM     30 N29  6WJ A1001      29.804   1.821   4.021  1.00  0.00    +0.000 NA
+ATOM     31 S30  6WJ A1001      28.812   2.954   1.941  1.00  0.00    +0.000 S 
+ATOM     32 C31  6WJ A1001      27.298   2.149   4.152  1.00  0.00    +0.000 C 
+ENDBRANCH  26  29
+ENDBRANCH  12  26
+TORSDOF 7
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -7.978      3.188      5.600
+REMARK INTER + INTRA:         -12.271
+REMARK INTER:                 -11.408
+REMARK INTRA:                  -0.863
+REMARK UNBOUND:                -1.028
+REMARK  Name = structures/xdock/5LHB_6WJ.pdb
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C31_31
+REMARK    2  A    between atoms: C3_3  and  C28_28
+REMARK    3  A    between atoms: C5_5  and  S17_17
+REMARK    4  A    between atoms: C10_10  and  C11_11
+REMARK    5  A    between atoms: C10_10  and  N25_25
+REMARK    6  A    between atoms: C15_15  and  C20_20
+REMARK    7  A    between atoms: S17_17  and  N19_19
+REMARK    8  A    between atoms: N19_19  and  C20_20
+REMARK    9  A    between atoms: N27_27  and  C28_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   6WJ A1001      30.128  -0.236  -5.731  1.00  0.00    +0.000 A 
+ATOM      2 C5   6WJ A1001      29.321   0.487  -6.603  1.00  0.00    +0.000 A 
+ATOM      3 C6   6WJ A1001      28.711   1.664  -6.191  1.00  0.00    +0.000 A 
+ATOM      4 C7   6WJ A1001      28.948   2.138  -4.929  1.00  0.00    +0.000 A 
+ATOM      5 C8   6WJ A1001      29.778   1.466  -4.031  1.00  0.00    +0.000 A 
+ATOM      6 C9   6WJ A1001      30.877   1.250  -1.834  1.00  0.00    +0.000 A 
+ATOM      7 C22  6WJ A1001      30.378   0.254  -4.463  1.00  0.00    +0.000 A 
+ATOM      8 C23  6WJ A1001      31.251  -0.518  -3.568  1.00  0.00    +0.000 A 
+ATOM      9 O24  6WJ A1001      31.793  -1.565  -3.833  1.00  0.00    +0.000 OA
+ATOM     10 N25  6WJ A1001      30.058   1.940  -2.711  1.00  0.00    +0.000 N 
+ATOM     11 O26  6WJ A1001      31.093   1.645  -0.719  1.00  0.00    +0.000 OA
+ATOM     12 N27  6WJ A1001      31.432   0.026  -2.286  1.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   2  14
+ATOM     13 O16  6WJ A1001      28.538   0.967  -9.001  1.00  0.00    +0.000 OA
+ATOM     14 S17  6WJ A1001      29.012  -0.130  -8.219  1.00  0.00    +0.000 S 
+ATOM     15 O18  6WJ A1001      30.174  -0.835  -8.667  1.00  0.00    +0.000 OA
+BRANCH  14  16
+ATOM     16 N19  6WJ A1001      27.784  -1.194  -8.072  1.00  0.00    +0.000 NA
+ATOM     17  H   6WJ A1001      27.572  -1.215  -7.074  1.00  0.00    +0.000 HD
+BRANCH  16  20
+ATOM     18 C14  6WJ A1001      26.850  -3.520  -7.738  1.00  0.00    +0.000 C 
+ATOM     19 C15  6WJ A1001      28.002  -2.842  -9.986  1.00  0.00    +0.000 C 
+ATOM     20 C20  6WJ A1001      27.779  -2.626  -8.494  1.00  0.00    +0.000 C 
+ATOM     21 C21  6WJ A1001      28.336  -3.612  -7.516  1.00  0.00    +0.000 C 
+ENDBRANCH  16  20
+ENDBRANCH  14  16
+ENDBRANCH   2  14
+BRANCH  10  22
+ATOM     22 C10  6WJ A1001      29.409   3.235  -2.224  1.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23 C11  6WJ A1001      28.020   3.033  -1.644  1.00  0.00    +0.000 C 
+ATOM     24 C12  6WJ A1001      27.280   4.221  -1.142  1.00  0.00    +0.000 C 
+ATOM     25 C13  6WJ A1001      27.824   3.230  -0.175  1.00  0.00    +0.000 C 
+ENDBRANCH  22  23
+ENDBRANCH  10  22
+BRANCH  12  26
+ATOM     26 C28  6WJ A1001      32.325  -0.701  -1.385  1.00  0.00    +0.000 C 
+BRANCH  26  29
+ATOM     27 C1   6WJ A1001      36.153  -0.222  -2.154  1.00  0.00    +0.000 A 
+ATOM     28 C2   6WJ A1001      34.408   0.793  -1.227  1.00  0.00    +0.000 A 
+ATOM     29 C3   6WJ A1001      33.763  -0.340  -1.604  1.00  0.00    +0.000 A 
+ATOM     30 N29  6WJ A1001      35.764   0.875  -1.524  1.00  0.00    +0.000 NA
+ATOM     31 S30  6WJ A1001      34.873  -1.378  -2.373  1.00  0.00    +0.000 S 
+ATOM     32 C31  6WJ A1001      37.529  -0.541  -2.658  1.00  0.00    +0.000 C 
+ENDBRANCH  26  29
+ENDBRANCH  12  26
+TORSDOF 7
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -7.685      3.158      8.489
+REMARK INTER + INTRA:         -11.859
+REMARK INTER:                 -11.007
+REMARK INTRA:                  -0.852
+REMARK UNBOUND:                -1.028
+REMARK  Name = structures/xdock/5LHB_6WJ.pdb
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C31_31
+REMARK    2  A    between atoms: C3_3  and  C28_28
+REMARK    3  A    between atoms: C5_5  and  S17_17
+REMARK    4  A    between atoms: C10_10  and  C11_11
+REMARK    5  A    between atoms: C10_10  and  N25_25
+REMARK    6  A    between atoms: C15_15  and  C20_20
+REMARK    7  A    between atoms: S17_17  and  N19_19
+REMARK    8  A    between atoms: N19_19  and  C20_20
+REMARK    9  A    between atoms: N27_27  and  C28_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   6WJ A1001      30.551   0.114  -4.102  1.00  0.00    +0.000 A 
+ATOM      2 C5   6WJ A1001      29.721   1.219  -3.945  1.00  0.00    +0.000 A 
+ATOM      3 C6   6WJ A1001      28.693   1.463  -4.845  1.00  0.00    +0.000 A 
+ATOM      4 C7   6WJ A1001      28.468   0.579  -5.866  1.00  0.00    +0.000 A 
+ATOM      5 C8   6WJ A1001      29.253  -0.561  -6.042  1.00  0.00    +0.000 A 
+ATOM      6 C9   6WJ A1001      29.836  -2.631  -7.249  1.00  0.00    +0.000 A 
+ATOM      7 C22  6WJ A1001      30.311  -0.785  -5.123  1.00  0.00    +0.000 A 
+ATOM      8 C23  6WJ A1001      31.191  -1.955  -5.254  1.00  0.00    +0.000 A 
+ATOM      9 O24  6WJ A1001      32.127  -2.225  -4.539  1.00  0.00    +0.000 OA
+ATOM     10 N25  6WJ A1001      29.038  -1.512  -7.088  1.00  0.00    +0.000 N 
+ATOM     11 O26  6WJ A1001      29.661  -3.416  -8.143  1.00  0.00    +0.000 OA
+ATOM     12 N27  6WJ A1001      30.906  -2.805  -6.335  1.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   2  14
+ATOM     13 O16  6WJ A1001      31.003   3.278  -3.105  1.00  0.00    +0.000 OA
+ATOM     14 S17  6WJ A1001      30.018   2.355  -2.639  1.00  0.00    +0.000 S 
+ATOM     15 O18  6WJ A1001      28.761   2.869  -2.187  1.00  0.00    +0.000 OA
+BRANCH  14  16
+ATOM     16 N19  6WJ A1001      30.690   1.490  -1.429  1.00  0.00    +0.000 NA
+ATOM     17  H   6WJ A1001      29.941   1.366  -0.747  1.00  0.00    +0.000 HD
+BRANCH  16  20
+ATOM     18 C14  6WJ A1001      31.662   1.977   0.854  1.00  0.00    +0.000 C 
+ATOM     19 C15  6WJ A1001      33.202   1.293  -1.146  1.00  0.00    +0.000 C 
+ATOM     20 C20  6WJ A1001      31.889   1.858  -0.618  1.00  0.00    +0.000 C 
+ATOM     21 C21  6WJ A1001      31.873   3.211   0.019  1.00  0.00    +0.000 C 
+ENDBRANCH  16  20
+ENDBRANCH  14  16
+ENDBRANCH   2  14
+BRANCH  10  22
+ATOM     22 C10  6WJ A1001      27.911  -1.279  -8.095  1.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23 C11  6WJ A1001      28.364  -0.555  -9.352  1.00  0.00    +0.000 C 
+ATOM     24 C12  6WJ A1001      29.328   0.567  -9.216  1.00  0.00    +0.000 C 
+ATOM     25 C13  6WJ A1001      27.910   0.852  -9.568  1.00  0.00    +0.000 C 
+ENDBRANCH  22  23
+ENDBRANCH  10  22
+BRANCH  12  26
+ATOM     26 C28  6WJ A1001      31.740  -3.998  -6.470  1.00  0.00    +0.000 C 
+BRANCH  26  29
+ATOM     27 C1   6WJ A1001      31.044  -6.841  -3.841  1.00  0.00    +0.000 A 
+ATOM     28 C2   6WJ A1001      30.159  -5.830  -5.610  1.00  0.00    +0.000 A 
+ATOM     29 C3   6WJ A1001      31.301  -5.100  -5.554  1.00  0.00    +0.000 A 
+ATOM     30 N29  6WJ A1001      29.998  -6.825  -4.652  1.00  0.00    +0.000 NA
+ATOM     31 S30  6WJ A1001      32.248  -5.655  -4.250  1.00  0.00    +0.000 S 
+ATOM     32 C31  6WJ A1001      31.272  -7.750  -2.671  1.00  0.00    +0.000 C 
+ENDBRANCH  26  29
+ENDBRANCH  12  26
+TORSDOF 7
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -7.637      3.187      5.761
+REMARK INTER + INTRA:         -11.790
+REMARK INTER:                 -10.972
+REMARK INTRA:                  -0.818
+REMARK UNBOUND:                -1.028
+REMARK  Name = structures/xdock/5LHB_6WJ.pdb
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C31_31
+REMARK    2  A    between atoms: C3_3  and  C28_28
+REMARK    3  A    between atoms: C5_5  and  S17_17
+REMARK    4  A    between atoms: C10_10  and  C11_11
+REMARK    5  A    between atoms: C10_10  and  N25_25
+REMARK    6  A    between atoms: C15_15  and  C20_20
+REMARK    7  A    between atoms: S17_17  and  N19_19
+REMARK    8  A    between atoms: N19_19  and  C20_20
+REMARK    9  A    between atoms: N27_27  and  C28_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   6WJ A1001      30.242  -0.397  -5.764  1.00  0.00    +0.000 A 
+ATOM      2 C5   6WJ A1001      29.372   0.561  -6.274  1.00  0.00    +0.000 A 
+ATOM      3 C6   6WJ A1001      28.947   1.621  -5.485  1.00  0.00    +0.000 A 
+ATOM      4 C7   6WJ A1001      29.428   1.746  -4.210  1.00  0.00    +0.000 A 
+ATOM      5 C8   6WJ A1001      30.328   0.829  -3.667  1.00  0.00    +0.000 A 
+ATOM      6 C9   6WJ A1001      31.746   0.009  -1.824  1.00  0.00    +0.000 A 
+ATOM      7 C22  6WJ A1001      30.738  -0.259  -4.482  1.00  0.00    +0.000 A 
+ATOM      8 C23  6WJ A1001      31.672  -1.274  -3.973  1.00  0.00    +0.000 A 
+ATOM      9 O24  6WJ A1001      32.066  -2.243  -4.577  1.00  0.00    +0.000 OA
+ATOM     10 N25  6WJ A1001      30.861   0.937  -2.344  1.00  0.00    +0.000 N 
+ATOM     11 O26  6WJ A1001      32.175   0.096  -0.703  1.00  0.00    +0.000 OA
+ATOM     12 N27  6WJ A1001      32.107  -1.084  -2.652  1.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   2  14
+ATOM     13 O16  6WJ A1001      28.011   1.578  -8.198  1.00  0.00    +0.000 OA
+ATOM     14 S17  6WJ A1001      28.751   0.392  -7.909  1.00  0.00    +0.000 S 
+ATOM     15 O18  6WJ A1001      29.834   0.035  -8.774  1.00  0.00    +0.000 OA
+BRANCH  14  16
+ATOM     16 N19  6WJ A1001      27.691  -0.849  -7.865  1.00  0.00    +0.000 NA
+ATOM     17  H   6WJ A1001      27.497  -0.994  -6.875  1.00  0.00    +0.000 HD
+BRANCH  16  20
+ATOM     18 C14  6WJ A1001      27.222  -3.326  -7.670  1.00  0.00    +0.000 C 
+ATOM     19 C15  6WJ A1001      27.973  -2.273  -9.943  1.00  0.00    +0.000 C 
+ATOM     20 C20  6WJ A1001      27.888  -2.220  -8.423  1.00  0.00    +0.000 C 
+ATOM     21 C21  6WJ A1001      28.717  -3.159  -7.605  1.00  0.00    +0.000 C 
+ENDBRANCH  16  20
+ENDBRANCH  14  16
+ENDBRANCH   2  14
+BRANCH  10  22
+ATOM     22 C10  6WJ A1001      30.420   2.094  -1.449  1.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23 C11  6WJ A1001      31.234   3.361  -1.653  1.00  0.00    +0.000 C 
+ATOM     24 C12  6WJ A1001      32.714   3.248  -1.734  1.00  0.00    +0.000 C 
+ATOM     25 C13  6WJ A1001      32.086   3.852  -0.528  1.00  0.00    +0.000 C 
+ENDBRANCH  22  23
+ENDBRANCH  10  22
+BRANCH  12  26
+ATOM     26 C28  6WJ A1001      33.065  -2.057  -2.130  1.00  0.00    +0.000 C 
+BRANCH  26  29
+ATOM     27 C1   6WJ A1001      36.678  -0.914  -3.188  1.00  0.00    +0.000 A 
+ATOM     28 C2   6WJ A1001      35.226  -2.579  -3.417  1.00  0.00    +0.000 A 
+ATOM     29 C3   6WJ A1001      34.458  -1.795  -2.619  1.00  0.00    +0.000 A 
+ATOM     30 N29  6WJ A1001      36.484  -2.094  -3.756  1.00  0.00    +0.000 NA
+ATOM     31 S30  6WJ A1001      35.318  -0.371  -2.251  1.00  0.00    +0.000 S 
+ATOM     32 C31  6WJ A1001      37.898  -0.048  -3.287  1.00  0.00    +0.000 C 
+ENDBRANCH  26  29
+ENDBRANCH  12  26
+TORSDOF 7
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -7.382      2.488      3.413
+REMARK INTER + INTRA:         -11.431
+REMARK INTER:                 -10.441
+REMARK INTRA:                  -0.991
+REMARK UNBOUND:                -1.028
+REMARK  Name = structures/xdock/5LHB_6WJ.pdb
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C31_31
+REMARK    2  A    between atoms: C3_3  and  C28_28
+REMARK    3  A    between atoms: C5_5  and  S17_17
+REMARK    4  A    between atoms: C10_10  and  C11_11
+REMARK    5  A    between atoms: C10_10  and  N25_25
+REMARK    6  A    between atoms: C15_15  and  C20_20
+REMARK    7  A    between atoms: S17_17  and  N19_19
+REMARK    8  A    between atoms: N19_19  and  C20_20
+REMARK    9  A    between atoms: N27_27  and  C28_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   6WJ A1001      29.645   0.365  -4.867  1.00  0.00    +0.000 A 
+ATOM      2 C5   6WJ A1001      29.882  -0.578  -5.862  1.00  0.00    +0.000 A 
+ATOM      3 C6   6WJ A1001      30.922  -1.489  -5.738  1.00  0.00    +0.000 A 
+ATOM      4 C7   6WJ A1001      31.688  -1.486  -4.603  1.00  0.00    +0.000 A 
+ATOM      5 C8   6WJ A1001      31.465  -0.582  -3.565  1.00  0.00    +0.000 A 
+ATOM      6 C9   6WJ A1001      32.003   0.354  -1.347  1.00  0.00    +0.000 A 
+ATOM      7 C22  6WJ A1001      30.409   0.355  -3.716  1.00  0.00    +0.000 A 
+ATOM      8 C23  6WJ A1001      30.124   1.349  -2.672  1.00  0.00    +0.000 A 
+ATOM      9 O24  6WJ A1001      29.264   2.197  -2.713  1.00  0.00    +0.000 OA
+ATOM     10 N25  6WJ A1001      32.236  -0.559  -2.360  1.00  0.00    +0.000 N 
+ATOM     11 O26  6WJ A1001      32.668   0.380  -0.345  1.00  0.00    +0.000 OA
+ATOM     12 N27  6WJ A1001      30.963   1.298  -1.547  1.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   2  14
+ATOM     13 O16  6WJ A1001      28.185   0.661  -7.336  1.00  0.00    +0.000 OA
+ATOM     14 S17  6WJ A1001      28.902  -0.573  -7.320  1.00  0.00    +0.000 S 
+ATOM     15 O18  6WJ A1001      29.742  -0.890  -8.435  1.00  0.00    +0.000 OA
+BRANCH  14  16
+ATOM     16 N19  6WJ A1001      27.809  -1.772  -7.137  1.00  0.00    +0.000 NA
+ATOM     17  H   6WJ A1001      27.851  -2.017  -6.148  1.00  0.00    +0.000 HD
+BRANCH  16  20
+ATOM     18 C14  6WJ A1001      27.341  -3.027  -9.282  1.00  0.00    +0.000 C 
+ATOM     19 C15  6WJ A1001      28.876  -4.054  -7.430  1.00  0.00    +0.000 C 
+ATOM     20 C20  6WJ A1001      27.782  -3.081  -7.855  1.00  0.00    +0.000 C 
+ATOM     21 C21  6WJ A1001      26.433  -3.607  -8.231  1.00  0.00    +0.000 C 
+ENDBRANCH  16  20
+ENDBRANCH  14  16
+ENDBRANCH   2  14
+BRANCH  10  22
+ATOM     22 C10  6WJ A1001      33.386  -1.551  -2.186  1.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23 C11  6WJ A1001      32.973  -2.837  -1.491  1.00  0.00    +0.000 C 
+ATOM     24 C12  6WJ A1001      34.028  -3.675  -0.863  1.00  0.00    +0.000 C 
+ATOM     25 C13  6WJ A1001      33.363  -4.141  -2.110  1.00  0.00    +0.000 C 
+ENDBRANCH  22  23
+ENDBRANCH  10  22
+BRANCH  12  26
+ATOM     26 C28  6WJ A1001      30.682   2.251  -0.474  1.00  0.00    +0.000 C 
+BRANCH  26  29
+ATOM     27 C1   6WJ A1001      33.145   5.283  -0.932  1.00  0.00    +0.000 A 
+ATOM     28 C2   6WJ A1001      32.439   3.806   0.569  1.00  0.00    +0.000 A 
+ATOM     29 C3   6WJ A1001      31.659   3.387  -0.459  1.00  0.00    +0.000 A 
+ATOM     30 N29  6WJ A1001      33.292   4.875   0.319  1.00  0.00    +0.000 NA
+ATOM     31 S30  6WJ A1001      31.979   4.354  -1.825  1.00  0.00    +0.000 S 
+ATOM     32 C31  6WJ A1001      33.866   6.410  -1.610  1.00  0.00    +0.000 C 
+ENDBRANCH  26  29
+ENDBRANCH  12  26
+TORSDOF 7
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -7.337      3.307      5.895
+REMARK INTER + INTRA:         -11.368
+REMARK INTER:                 -10.391
+REMARK INTRA:                  -0.976
+REMARK UNBOUND:                -1.028
+REMARK  Name = structures/xdock/5LHB_6WJ.pdb
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C31_31
+REMARK    2  A    between atoms: C3_3  and  C28_28
+REMARK    3  A    between atoms: C5_5  and  S17_17
+REMARK    4  A    between atoms: C10_10  and  C11_11
+REMARK    5  A    between atoms: C10_10  and  N25_25
+REMARK    6  A    between atoms: C15_15  and  C20_20
+REMARK    7  A    between atoms: S17_17  and  N19_19
+REMARK    8  A    between atoms: N19_19  and  C20_20
+REMARK    9  A    between atoms: N27_27  and  C28_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   6WJ A1001      30.848  -0.750  -4.440  1.00  0.00    +0.000 A 
+ATOM      2 C5   6WJ A1001      30.373   0.518  -4.121  1.00  0.00    +0.000 A 
+ATOM      3 C6   6WJ A1001      30.747   1.135  -2.935  1.00  0.00    +0.000 A 
+ATOM      4 C7   6WJ A1001      31.629   0.506  -2.098  1.00  0.00    +0.000 A 
+ATOM      5 C8   6WJ A1001      32.158  -0.751  -2.393  1.00  0.00    +0.000 A 
+ATOM      6 C9   6WJ A1001      33.596  -2.681  -1.857  1.00  0.00    +0.000 A 
+ATOM      7 C22  6WJ A1001      31.751  -1.375  -3.601  1.00  0.00    +0.000 A 
+ATOM      8 C23  6WJ A1001      32.253  -2.705  -3.971  1.00  0.00    +0.000 A 
+ATOM      9 O24  6WJ A1001      31.954  -3.328  -4.963  1.00  0.00    +0.000 OA
+ATOM     10 N25  6WJ A1001      33.092  -1.430  -1.549  1.00  0.00    +0.000 N 
+ATOM     11 O26  6WJ A1001      34.366  -3.255  -1.133  1.00  0.00    +0.000 OA
+ATOM     12 N27  6WJ A1001      33.141  -3.291  -3.054  1.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   2  14
+ATOM     13 O16  6WJ A1001      28.037   1.531  -4.446  1.00  0.00    +0.000 OA
+ATOM     14 S17  6WJ A1001      29.235   1.318  -5.194  1.00  0.00    +0.000 S 
+ATOM     15 O18  6WJ A1001      29.883   2.451  -5.783  1.00  0.00    +0.000 OA
+BRANCH  14  16
+ATOM     16 N19  6WJ A1001      28.892   0.244  -6.374  1.00  0.00    +0.000 NA
+ATOM     17  H   6WJ A1001      29.154  -0.663  -5.989  1.00  0.00    +0.000 HD
+BRANCH  16  20
+ATOM     18 C14  6WJ A1001      30.278  -0.938  -8.128  1.00  0.00    +0.000 C 
+ATOM     19 C15  6WJ A1001      28.494   0.852  -8.803  1.00  0.00    +0.000 C 
+ATOM     20 C20  6WJ A1001      29.428   0.238  -7.768  1.00  0.00    +0.000 C 
+ATOM     21 C21  6WJ A1001      30.907   0.413  -7.913  1.00  0.00    +0.000 C 
+ENDBRANCH  16  20
+ENDBRANCH  14  16
+ENDBRANCH   2  14
+BRANCH  10  22
+ATOM     22 C10  6WJ A1001      33.531  -0.779  -0.238  1.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23 C11  6WJ A1001      32.665  -1.167   0.949  1.00  0.00    +0.000 C 
+ATOM     24 C12  6WJ A1001      32.845  -0.434   2.229  1.00  0.00    +0.000 C 
+ATOM     25 C13  6WJ A1001      33.313  -1.842   2.115  1.00  0.00    +0.000 C 
+ENDBRANCH  22  23
+ENDBRANCH  10  22
+BRANCH  12  26
+ATOM     26 C28  6WJ A1001      33.686  -4.600  -3.412  1.00  0.00    +0.000 C 
+BRANCH  26  29
+ATOM     27 C1   6WJ A1001      31.477  -7.452  -1.844  1.00  0.00    +0.000 A 
+ATOM     28 C2   6WJ A1001      32.046  -6.540  -3.787  1.00  0.00    +0.000 A 
+ATOM     29 C3   6WJ A1001      32.782  -5.720  -2.996  1.00  0.00    +0.000 A 
+ATOM     30 N29  6WJ A1001      31.305  -7.531  -3.154  1.00  0.00    +0.000 NA
+ATOM     31 S30  6WJ A1001      32.562  -6.179  -1.369  1.00  0.00    +0.000 S 
+ATOM     32 C31  6WJ A1001      30.858  -8.323  -0.792  1.00  0.00    +0.000 C 
+ENDBRANCH  26  29
+ENDBRANCH  12  26
+TORSDOF 7
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -7.275      2.782      4.939
+REMARK INTER + INTRA:         -11.280
+REMARK INTER:                 -10.483
+REMARK INTRA:                  -0.798
+REMARK UNBOUND:                -1.028
+REMARK  Name = structures/xdock/5LHB_6WJ.pdb
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C31_31
+REMARK    2  A    between atoms: C3_3  and  C28_28
+REMARK    3  A    between atoms: C5_5  and  S17_17
+REMARK    4  A    between atoms: C10_10  and  C11_11
+REMARK    5  A    between atoms: C10_10  and  N25_25
+REMARK    6  A    between atoms: C15_15  and  C20_20
+REMARK    7  A    between atoms: S17_17  and  N19_19
+REMARK    8  A    between atoms: N19_19  and  C20_20
+REMARK    9  A    between atoms: N27_27  and  C28_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   6WJ A1001      30.959  -0.412  -4.297  1.00  0.00    +0.000 A 
+ATOM      2 C5   6WJ A1001      30.123  -0.174  -5.383  1.00  0.00    +0.000 A 
+ATOM      3 C6   6WJ A1001      29.166   0.830  -5.331  1.00  0.00    +0.000 A 
+ATOM      4 C7   6WJ A1001      29.081   1.622  -4.218  1.00  0.00    +0.000 A 
+ATOM      5 C8   6WJ A1001      29.922   1.443  -3.119  1.00  0.00    +0.000 A 
+ATOM      6 C9   6WJ A1001      30.708   2.058  -0.863  1.00  0.00    +0.000 A 
+ATOM      7 C22  6WJ A1001      30.882   0.400  -3.181  1.00  0.00    +0.000 A 
+ATOM      8 C23  6WJ A1001      31.791   0.140  -2.056  1.00  0.00    +0.000 A 
+ATOM      9 O24  6WJ A1001      32.627  -0.731  -2.003  1.00  0.00    +0.000 OA
+ATOM     10 N25  6WJ A1001      29.870   2.260  -1.946  1.00  0.00    +0.000 N 
+ATOM     11 O26  6WJ A1001      30.646   2.737   0.127  1.00  0.00    +0.000 OA
+ATOM     12 N27  6WJ A1001      31.631   0.985  -0.945  1.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   2  14
+ATOM     13 O16  6WJ A1001      31.039  -0.507  -7.758  1.00  0.00    +0.000 OA
+ATOM     14 S17  6WJ A1001      30.229  -1.199  -6.806  1.00  0.00    +0.000 S 
+ATOM     15 O18  6WJ A1001      30.628  -2.510  -6.395  1.00  0.00    +0.000 OA
+BRANCH  14  16
+ATOM     16 N19  6WJ A1001      28.718  -1.284  -7.418  1.00  0.00    +0.000 NA
+ATOM     17  H   6WJ A1001      28.301  -2.103  -6.974  1.00  0.00    +0.000 HD
+BRANCH  16  20
+ATOM     18 C14  6WJ A1001      27.405  -2.511  -9.197  1.00  0.00    +0.000 C 
+ATOM     19 C15  6WJ A1001      28.218  -0.054  -9.577  1.00  0.00    +0.000 C 
+ATOM     20 C20  6WJ A1001      28.336  -1.392  -8.857  1.00  0.00    +0.000 C 
+ATOM     21 C21  6WJ A1001      28.855  -2.584  -9.597  1.00  0.00    +0.000 C 
+ENDBRANCH  16  20
+ENDBRANCH  14  16
+ENDBRANCH   2  14
+BRANCH  10  22
+ATOM     22 C10  6WJ A1001      28.833   3.380  -1.856  1.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23 C11  6WJ A1001      27.518   2.937  -1.236  1.00  0.00    +0.000 C 
+ATOM     24 C12  6WJ A1001      26.524   3.976  -0.861  1.00  0.00    +0.000 C 
+ATOM     25 C13  6WJ A1001      27.267   3.249   0.204  1.00  0.00    +0.000 C 
+ENDBRANCH  22  23
+ENDBRANCH  10  22
+BRANCH  12  26
+ATOM     26 C28  6WJ A1001      32.546   0.775   0.176  1.00  0.00    +0.000 C 
+BRANCH  26  29
+ATOM     27 C1   6WJ A1001      35.509   3.362   0.153  1.00  0.00    +0.000 A 
+ATOM     28 C2   6WJ A1001      34.919   1.362  -0.611  1.00  0.00    +0.000 A 
+ATOM     29 C3   6WJ A1001      33.774   1.626   0.068  1.00  0.00    +0.000 A 
+ATOM     30 N29  6WJ A1001      35.911   2.335  -0.580  1.00  0.00    +0.000 NA
+ATOM     31 S30  6WJ A1001      33.907   3.161   0.796  1.00  0.00    +0.000 S 
+ATOM     32 C31  6WJ A1001      36.271   4.618   0.451  1.00  0.00    +0.000 C 
+ENDBRANCH  26  29
+ENDBRANCH  12  26
+TORSDOF 7
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -7.145      8.469     14.385
+REMARK INTER + INTRA:         -11.097
+REMARK INTER:                 -10.181
+REMARK INTRA:                  -0.916
+REMARK UNBOUND:                -1.028
+REMARK  Name = structures/xdock/5LHB_6WJ.pdb
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C31_31
+REMARK    2  A    between atoms: C3_3  and  C28_28
+REMARK    3  A    between atoms: C5_5  and  S17_17
+REMARK    4  A    between atoms: C10_10  and  C11_11
+REMARK    5  A    between atoms: C10_10  and  N25_25
+REMARK    6  A    between atoms: C15_15  and  C20_20
+REMARK    7  A    between atoms: S17_17  and  N19_19
+REMARK    8  A    between atoms: N19_19  and  C20_20
+REMARK    9  A    between atoms: N27_27  and  C28_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   6WJ A1001      22.145   0.840   9.087  1.00  0.00    +0.000 A 
+ATOM      2 C5   6WJ A1001      21.041   1.438   9.686  1.00  0.00    +0.000 A 
+ATOM      3 C6   6WJ A1001      21.010   2.808   9.902  1.00  0.00    +0.000 A 
+ATOM      4 C7   6WJ A1001      22.056   3.581   9.475  1.00  0.00    +0.000 A 
+ATOM      5 C8   6WJ A1001      23.168   3.031   8.838  1.00  0.00    +0.000 A 
+ATOM      6 C9   6WJ A1001      25.369   3.240   7.745  1.00  0.00    +0.000 A 
+ATOM      7 C22  6WJ A1001      23.192   1.625   8.642  1.00  0.00    +0.000 A 
+ATOM      8 C23  6WJ A1001      24.337   0.972   7.993  1.00  0.00    +0.000 A 
+ATOM      9 O24  6WJ A1001      24.462  -0.214   7.797  1.00  0.00    +0.000 OA
+ATOM     10 N25  6WJ A1001      24.272   3.809   8.367  1.00  0.00    +0.000 N 
+ATOM     11 O26  6WJ A1001      26.302   3.899   7.369  1.00  0.00    +0.000 OA
+ATOM     12 N27  6WJ A1001      25.376   1.830   7.598  1.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   2  14
+ATOM     13 O16  6WJ A1001      20.236  -0.472  11.202  1.00  0.00    +0.000 OA
+ATOM     14 S17  6WJ A1001      19.705   0.441  10.241  1.00  0.00    +0.000 S 
+ATOM     15 O18  6WJ A1001      18.629   1.299  10.635  1.00  0.00    +0.000 OA
+BRANCH  14  16
+ATOM     16 N19  6WJ A1001      19.223  -0.433   8.948  1.00  0.00    +0.000 NA
+ATOM     17  H   6WJ A1001      20.042  -0.477   8.341  1.00  0.00    +0.000 HD
+BRANCH  16  20
+ATOM     18 C14  6WJ A1001      16.735  -0.559   8.518  1.00  0.00    +0.000 C 
+ATOM     19 C15  6WJ A1001      18.237   1.163   7.244  1.00  0.00    +0.000 C 
+ATOM     20 C20  6WJ A1001      18.083  -0.131   8.033  1.00  0.00    +0.000 C 
+ATOM     21 C21  6WJ A1001      17.409  -1.306   7.399  1.00  0.00    +0.000 C 
+ENDBRANCH  16  20
+ENDBRANCH  14  16
+ENDBRANCH   2  14
+BRANCH  10  22
+ATOM     22 C10  6WJ A1001      24.269   5.323   8.581  1.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23 C11  6WJ A1001      24.880   5.746   9.907  1.00  0.00    +0.000 C 
+ATOM     24 C12  6WJ A1001      24.275   6.892  10.634  1.00  0.00    +0.000 C 
+ATOM     25 C13  6WJ A1001      25.600   7.054   9.976  1.00  0.00    +0.000 C 
+ENDBRANCH  22  23
+ENDBRANCH  10  22
+BRANCH  12  26
+ATOM     26 C28  6WJ A1001      26.514   1.214   6.916  1.00  0.00    +0.000 C 
+BRANCH  26  29
+ATOM     27 C1   6WJ A1001      27.162   2.318   3.197  1.00  0.00    +0.000 A 
+ATOM     28 C2   6WJ A1001      25.557   1.631   4.570  1.00  0.00    +0.000 A 
+ATOM     29 C3   6WJ A1001      26.574   1.591   5.467  1.00  0.00    +0.000 A 
+ATOM     30 N29  6WJ A1001      25.869   2.046   3.280  1.00  0.00    +0.000 NA
+ATOM     31 S30  6WJ A1001      28.010   2.090   4.697  1.00  0.00    +0.000 S 
+ATOM     32 C31  6WJ A1001      27.915   2.790   1.989  1.00  0.00    +0.000 C 
+ENDBRANCH  26  29
+ENDBRANCH  12  26
+TORSDOF 7
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:    -6.971     10.599     14.272
+REMARK INTER + INTRA:         -10.852
+REMARK INTER:                  -9.888
+REMARK INTRA:                  -0.964
+REMARK UNBOUND:                -1.028
+REMARK  Name = structures/xdock/5LHB_6WJ.pdb
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C31_31
+REMARK    2  A    between atoms: C3_3  and  C28_28
+REMARK    3  A    between atoms: C5_5  and  S17_17
+REMARK    4  A    between atoms: C10_10  and  C11_11
+REMARK    5  A    between atoms: C10_10  and  N25_25
+REMARK    6  A    between atoms: C15_15  and  C20_20
+REMARK    7  A    between atoms: S17_17  and  N19_19
+REMARK    8  A    between atoms: N19_19  and  C20_20
+REMARK    9  A    between atoms: N27_27  and  C28_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   6WJ A1001      21.719   2.990   9.424  1.00  0.00    +0.000 A 
+ATOM      2 C5   6WJ A1001      21.271   1.675   9.496  1.00  0.00    +0.000 A 
+ATOM      3 C6   6WJ A1001      21.973   0.654   8.871  1.00  0.00    +0.000 A 
+ATOM      4 C7   6WJ A1001      23.143   0.942   8.222  1.00  0.00    +0.000 A 
+ATOM      5 C8   6WJ A1001      23.650   2.240   8.153  1.00  0.00    +0.000 A 
+ATOM      6 C9   6WJ A1001      25.354   3.871   7.432  1.00  0.00    +0.000 A 
+ATOM      7 C22  6WJ A1001      22.909   3.274   8.781  1.00  0.00    +0.000 A 
+ATOM      8 C23  6WJ A1001      23.371   4.669   8.738  1.00  0.00    +0.000 A 
+ATOM      9 O24  6WJ A1001      22.806   5.621   9.222  1.00  0.00    +0.000 OA
+ATOM     10 N25  6WJ A1001      24.875   2.573   7.495  1.00  0.00    +0.000 N 
+ATOM     11 O26  6WJ A1001      26.375   4.147   6.860  1.00  0.00    +0.000 OA
+ATOM     12 N27  6WJ A1001      24.570   4.885   8.040  1.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   2  14
+ATOM     13 O16  6WJ A1001      19.753  -0.094  10.572  1.00  0.00    +0.000 OA
+ATOM     14 S17  6WJ A1001      19.764   1.312  10.323  1.00  0.00    +0.000 S 
+ATOM     15 O18  6WJ A1001      19.628   2.203  11.435  1.00  0.00    +0.000 OA
+BRANCH  14  16
+ATOM     16 N19  6WJ A1001      18.571   1.630   9.255  1.00  0.00    +0.000 NA
+ATOM     17  H   6WJ A1001      17.874   2.150   9.787  1.00  0.00    +0.000 HD
+BRANCH  16  20
+ATOM     18 C14  6WJ A1001      18.546  -0.077   7.390  1.00  0.00    +0.000 C 
+ATOM     19 C15  6WJ A1001      16.713  -0.095   9.256  1.00  0.00    +0.000 C 
+ATOM     20 C20  6WJ A1001      17.787   0.638   8.461  1.00  0.00    +0.000 C 
+ATOM     21 C21  6WJ A1001      17.537   0.980   7.027  1.00  0.00    +0.000 C 
+ENDBRANCH  16  20
+ENDBRANCH  14  16
+ENDBRANCH   2  14
+BRANCH  10  22
+ATOM     22 C10  6WJ A1001      25.679   1.474   6.802  1.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23 C11  6WJ A1001      25.515   1.466   5.292  1.00  0.00    +0.000 C 
+ATOM     24 C12  6WJ A1001      24.174   1.759   4.722  1.00  0.00    +0.000 C 
+ATOM     25 C13  6WJ A1001      24.711   0.373   4.666  1.00  0.00    +0.000 C 
+ENDBRANCH  22  23
+ENDBRANCH  10  22
+BRANCH  12  26
+ATOM     26 C28  6WJ A1001      25.076   6.256   8.010  1.00  0.00    +0.000 C 
+BRANCH  26  29
+ATOM     27 C1   6WJ A1001      27.633   6.873  10.935  1.00  0.00    +0.000 A 
+ATOM     28 C2   6WJ A1001      25.498   7.143  10.383  1.00  0.00    +0.000 A 
+ATOM     29 C3   6WJ A1001      25.903   6.579   9.217  1.00  0.00    +0.000 A 
+ATOM     30 N29  6WJ A1001      26.462   7.312  11.371  1.00  0.00    +0.000 NA
+ATOM     31 S30  6WJ A1001      27.567   6.228   9.322  1.00  0.00    +0.000 S 
+ATOM     32 C31  6WJ A1001      28.936   6.874  11.676  1.00  0.00    +0.000 C 
+ENDBRANCH  26  29
+ENDBRANCH  12  26
+TORSDOF 7
+ENDMDL

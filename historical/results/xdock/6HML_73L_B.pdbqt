@@ -1,0 +1,684 @@
+MODEL 1
+REMARK VINA RESULT:    -8.390      0.000      0.000
+REMARK INTER + INTRA:         -12.845
+REMARK INTER:                 -11.824
+REMARK INTRA:                  -1.021
+REMARK UNBOUND:                -1.021
+REMARK  Name = structures/xdock/6HML_73L.pdb
+REMARK  11 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C35_35
+REMARK    2  A    between atoms: C2_2  and  C31_31
+REMARK    3  A    between atoms: C3_3  and  C33_33
+REMARK    4  A    between atoms: C6_6  and  S19_19
+REMARK    5  A    between atoms: C11_11  and  C12_12
+REMARK    6  A    between atoms: C11_11  and  N24_24
+REMARK    7  A    between atoms: C14_14  and  C17_17
+REMARK    8  A    between atoms: C14_14  and  N21_21
+REMARK    9  A    between atoms: S19_19  and  N21_21
+REMARK   10  A    between atoms: N26_26  and  C27_27
+REMARK   11  A    between atoms: N30_30  and  C31_31
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   73L A1001      29.205   1.718  -3.994  1.00  0.00    +0.000 A 
+ATOM      2 C5   73L A1001      28.758   1.621  -5.280  1.00  0.00    +0.000 A 
+ATOM      3 C6   73L A1001      29.293   0.640  -6.122  1.00  0.00    +0.000 A 
+ATOM      4 C7   73L A1001      30.261  -0.265  -5.645  1.00  0.00    +0.000 A 
+ATOM      5 C8   73L A1001      30.730  -0.140  -4.326  1.00  0.00    +0.000 A 
+ATOM      6 C9   73L A1001      31.739  -1.071  -3.822  1.00  0.00    +0.000 A 
+ATOM      7 C10  73L A1001      31.666   0.136  -1.656  1.00  0.00    +0.000 A 
+ATOM      8 C22  73L A1001      30.201   0.868  -3.484  1.00  0.00    +0.000 A 
+ATOM      9 O23  73L A1001      32.220  -1.986  -4.474  1.00  0.00    +0.000 OA
+ATOM     10 N24  73L A1001      32.132  -0.874  -2.489  1.00  0.00    +0.000 N 
+ATOM     11 O29  73L A1001      32.069   0.236  -0.514  1.00  0.00    +0.000 OA
+ATOM     12 N30  73L A1001      30.689   0.976  -2.155  1.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   3  14
+ATOM     13 O18  73L A1001      27.960   1.716  -8.037  1.00  0.00    +0.000 OA
+ATOM     14 S19  73L A1001      28.750   0.549  -7.792  1.00  0.00    +0.000 S 
+ATOM     15 O20  73L A1001      29.871   0.275  -8.636  1.00  0.00    +0.000 OA
+BRANCH  14  16
+ATOM     16 N21  73L A1001      27.699  -0.680  -7.892  1.00  0.00    +0.000 NA
+ATOM     17  H   73L A1001      27.389  -0.836  -6.933  1.00  0.00    +0.000 HD
+BRANCH  16  18
+ATOM     18 C14  73L A1001      27.948  -2.045  -8.439  1.00  0.00    +0.000 C 
+ATOM     19 C15  73L A1001      27.327  -3.170  -7.678  1.00  0.00    +0.000 C 
+ATOM     20 C16  73L A1001      28.812  -2.937  -7.608  1.00  0.00    +0.000 C 
+ATOM     21 C17  73L A1001      28.048  -2.107  -9.958  1.00  0.00    +0.000 C 
+ENDBRANCH  16  18
+ENDBRANCH  14  16
+ENDBRANCH   3  14
+BRANCH  10  22
+ATOM     22 C11  73L A1001      33.127  -1.792  -1.946  1.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23 C12  73L A1001      34.505  -1.476  -2.460  1.00  0.00    +0.000 A 
+ATOM     24 C13  73L A1001      35.363  -2.295  -3.216  1.00  0.00    +0.000 A 
+ATOM     25 C25  73L A1001      35.204  -0.334  -2.276  1.00  0.00    +0.000 A 
+ATOM     26 N26  73L A1001      36.381  -0.476  -2.896  1.00  0.00    +0.000 N 
+ATOM     27 C27  73L A1001      37.478   0.484  -2.978  1.00  0.00    +0.000 C 
+ATOM     28 N28  73L A1001      36.497  -1.689  -3.490  1.00  0.00    +0.000 NA
+ENDBRANCH  22  23
+ENDBRANCH  10  22
+BRANCH  12  29
+ATOM     29 C31  73L A1001      30.229   2.057  -1.281  1.00  0.00    +0.000 C 
+BRANCH  29  31
+ATOM     30 C1   73L A1001      31.978   3.551  -0.051  1.00  0.00    +0.000 A 
+ATOM     31 C2   73L A1001      31.237   3.202  -1.149  1.00  0.00    +0.000 A 
+ATOM     32 C3   73L A1001      32.682   5.170  -1.408  1.00  0.00    +0.000 A 
+ATOM     33 S32  73L A1001      31.582   4.301  -2.456  1.00  0.00    +0.000 S 
+ATOM     34 C33  73L A1001      33.437   6.351  -1.904  1.00  0.00    +0.000 C 
+ATOM     35 N34  73L A1001      32.791   4.655  -0.205  1.00  0.00    +0.000 NA
+ATOM     36 C35  73L A1001      31.977   2.855   1.284  1.00  0.00    +0.000 C 
+ENDBRANCH  29  31
+ENDBRANCH  12  29
+TORSDOF 7
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -8.390      1.571      2.364
+REMARK INTER + INTRA:         -12.844
+REMARK INTER:                 -12.078
+REMARK INTRA:                  -0.766
+REMARK UNBOUND:                -1.021
+REMARK  Name = structures/xdock/6HML_73L.pdb
+REMARK  11 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C35_35
+REMARK    2  A    between atoms: C2_2  and  C31_31
+REMARK    3  A    between atoms: C3_3  and  C33_33
+REMARK    4  A    between atoms: C6_6  and  S19_19
+REMARK    5  A    between atoms: C11_11  and  C12_12
+REMARK    6  A    between atoms: C11_11  and  N24_24
+REMARK    7  A    between atoms: C14_14  and  C17_17
+REMARK    8  A    between atoms: C14_14  and  N21_21
+REMARK    9  A    between atoms: S19_19  and  N21_21
+REMARK   10  A    between atoms: N26_26  and  C27_27
+REMARK   11  A    between atoms: N30_30  and  C31_31
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   73L A1001      29.585   2.273  -4.466  1.00  0.00    +0.000 A 
+ATOM      2 C5   73L A1001      29.068   2.046  -5.709  1.00  0.00    +0.000 A 
+ATOM      3 C6   73L A1001      29.349   0.840  -6.361  1.00  0.00    +0.000 A 
+ATOM      4 C7   73L A1001      30.130  -0.150  -5.734  1.00  0.00    +0.000 A 
+ATOM      5 C8   73L A1001      30.675   0.105  -4.463  1.00  0.00    +0.000 A 
+ATOM      6 C9   73L A1001      31.491  -0.915  -3.805  1.00  0.00    +0.000 A 
+ATOM      7 C10  73L A1001      31.771   0.645  -1.896  1.00  0.00    +0.000 A 
+ATOM      8 C22  73L A1001      30.406   1.335  -3.817  1.00  0.00    +0.000 A 
+ATOM      9 O23  73L A1001      31.741  -2.012  -4.282  1.00  0.00    +0.000 OA
+ATOM     10 N24  73L A1001      31.978  -0.573  -2.533  1.00  0.00    +0.000 N 
+ATOM     11 O29  73L A1001      32.238   0.858  -0.796  1.00  0.00    +0.000 OA
+ATOM     12 N30  73L A1001      30.967   1.571  -2.534  1.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   3  14
+ATOM     13 O18  73L A1001      27.875   1.682  -8.290  1.00  0.00    +0.000 OA
+ATOM     14 S19  73L A1001      28.723   0.571  -7.981  1.00  0.00    +0.000 S 
+ATOM     15 O20  73L A1001      29.807   0.256  -8.858  1.00  0.00    +0.000 OA
+BRANCH  14  16
+ATOM     16 N21  73L A1001      27.716  -0.697  -7.906  1.00  0.00    +0.000 NA
+ATOM     17  H   73L A1001      27.550  -0.838  -6.910  1.00  0.00    +0.000 HD
+BRANCH  16  18
+ATOM     18 C14  73L A1001      27.939  -2.066  -8.454  1.00  0.00    +0.000 C 
+ATOM     19 C15  73L A1001      27.300  -3.180  -7.691  1.00  0.00    +0.000 C 
+ATOM     20 C16  73L A1001      28.789  -2.973  -7.626  1.00  0.00    +0.000 C 
+ATOM     21 C17  73L A1001      28.034  -2.129  -9.973  1.00  0.00    +0.000 C 
+ENDBRANCH  16  18
+ENDBRANCH  14  16
+ENDBRANCH   3  14
+BRANCH  10  22
+ATOM     22 C11  73L A1001      32.785  -1.570  -1.839  1.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23 C12  73L A1001      34.183  -1.625  -2.390  1.00  0.00    +0.000 A 
+ATOM     24 C13  73L A1001      35.147  -0.600  -2.430  1.00  0.00    +0.000 A 
+ATOM     25 C25  73L A1001      34.790  -2.681  -2.979  1.00  0.00    +0.000 A 
+ATOM     26 N26  73L A1001      36.024  -2.297  -3.324  1.00  0.00    +0.000 N 
+ATOM     27 C27  73L A1001      37.059  -3.083  -3.990  1.00  0.00    +0.000 C 
+ATOM     28 N28  73L A1001      36.267  -1.007  -2.986  1.00  0.00    +0.000 NA
+ENDBRANCH  22  23
+ENDBRANCH  10  22
+BRANCH  12  29
+ATOM     29 C31  73L A1001      30.781   2.862  -1.869  1.00  0.00    +0.000 C 
+BRANCH  29  31
+ATOM     30 C1   73L A1001      29.461   2.815   0.380  1.00  0.00    +0.000 A 
+ATOM     31 C2   73L A1001      29.533   2.915  -0.984  1.00  0.00    +0.000 A 
+ATOM     32 C3   73L A1001      27.277   2.993  -0.018  1.00  0.00    +0.000 A 
+ATOM     33 S32  73L A1001      27.928   3.096  -1.639  1.00  0.00    +0.000 S 
+ATOM     34 C33  73L A1001      25.814   3.098   0.226  1.00  0.00    +0.000 C 
+ATOM     35 N34  73L A1001      28.191   2.865   0.917  1.00  0.00    +0.000 NA
+ATOM     36 C35  73L A1001      30.621   2.652   1.325  1.00  0.00    +0.000 C 
+ENDBRANCH  29  31
+ENDBRANCH  12  29
+TORSDOF 7
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -8.304      2.454      5.660
+REMARK INTER + INTRA:         -12.723
+REMARK INTER:                 -11.840
+REMARK INTRA:                  -0.883
+REMARK UNBOUND:                -1.021
+REMARK  Name = structures/xdock/6HML_73L.pdb
+REMARK  11 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C35_35
+REMARK    2  A    between atoms: C2_2  and  C31_31
+REMARK    3  A    between atoms: C3_3  and  C33_33
+REMARK    4  A    between atoms: C6_6  and  S19_19
+REMARK    5  A    between atoms: C11_11  and  C12_12
+REMARK    6  A    between atoms: C11_11  and  N24_24
+REMARK    7  A    between atoms: C14_14  and  C17_17
+REMARK    8  A    between atoms: C14_14  and  N21_21
+REMARK    9  A    between atoms: S19_19  and  N21_21
+REMARK   10  A    between atoms: N26_26  and  C27_27
+REMARK   11  A    between atoms: N30_30  and  C31_31
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   73L A1001      31.357  -0.738  -3.535  1.00  0.00    +0.000 A 
+ATOM      2 C5   73L A1001      30.585  -0.585  -4.650  1.00  0.00    +0.000 A 
+ATOM      3 C6   73L A1001      29.742   0.527  -4.756  1.00  0.00    +0.000 A 
+ATOM      4 C7   73L A1001      29.709   1.502  -3.741  1.00  0.00    +0.000 A 
+ATOM      5 C8   73L A1001      30.491   1.321  -2.587  1.00  0.00    +0.000 A 
+ATOM      6 C9   73L A1001      30.460   2.324  -1.523  1.00  0.00    +0.000 A 
+ATOM      7 C10  73L A1001      32.077   0.930  -0.259  1.00  0.00    +0.000 A 
+ATOM      8 C22  73L A1001      31.325   0.183  -2.474  1.00  0.00    +0.000 A 
+ATOM      9 O23  73L A1001      29.792   3.347  -1.559  1.00  0.00    +0.000 OA
+ATOM     10 N24  73L A1001      31.286   2.062  -0.418  1.00  0.00    +0.000 N 
+ATOM     11 O29  73L A1001      32.757   0.782   0.736  1.00  0.00    +0.000 OA
+ATOM     12 N30  73L A1001      32.107   0.020  -1.299  1.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   3  14
+ATOM     13 O18  73L A1001      27.504  -0.015  -5.895  1.00  0.00    +0.000 OA
+ATOM     14 S19  73L A1001      28.714   0.697  -6.172  1.00  0.00    +0.000 S 
+ATOM     15 O20  73L A1001      28.643   2.077  -6.539  1.00  0.00    +0.000 OA
+BRANCH  14  16
+ATOM     16 N21  73L A1001      29.408  -0.137  -7.376  1.00  0.00    +0.000 NA
+ATOM     17  H   73L A1001      30.174   0.456  -7.696  1.00  0.00    +0.000 HD
+BRANCH  16  18
+ATOM     18 C14  73L A1001      28.762  -0.632  -8.626  1.00  0.00    +0.000 C 
+ATOM     19 C15  73L A1001      28.017  -1.921  -8.503  1.00  0.00    +0.000 C 
+ATOM     20 C16  73L A1001      29.341  -1.877  -9.215  1.00  0.00    +0.000 C 
+ATOM     21 C17  73L A1001      28.251   0.467  -9.550  1.00  0.00    +0.000 C 
+ENDBRANCH  16  18
+ENDBRANCH  14  16
+ENDBRANCH   3  14
+BRANCH  10  22
+ATOM     22 C11  73L A1001      31.292   3.047   0.657  1.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23 C12  73L A1001      30.267   2.721   1.707  1.00  0.00    +0.000 A 
+ATOM     24 C13  73L A1001      28.868   2.848   1.630  1.00  0.00    +0.000 A 
+ATOM     25 C25  73L A1001      30.494   2.253   2.956  1.00  0.00    +0.000 A 
+ATOM     26 N26  73L A1001      29.307   2.106   3.555  1.00  0.00    +0.000 N 
+ATOM     27 C27  73L A1001      29.034   1.633   4.909  1.00  0.00    +0.000 C 
+ATOM     28 N28  73L A1001      28.282   2.467   2.744  1.00  0.00    +0.000 NA
+ENDBRANCH  22  23
+ENDBRANCH  10  22
+BRANCH  12  29
+ATOM     29 C31  73L A1001      32.918  -1.183  -1.109  1.00  0.00    +0.000 C 
+BRANCH  29  31
+ATOM     30 C1   73L A1001      34.561  -2.171  -2.878  1.00  0.00    +0.000 A 
+ATOM     31 C2   73L A1001      34.177  -1.211  -1.981  1.00  0.00    +0.000 A 
+ATOM     32 C3   73L A1001      36.329  -0.835  -3.100  1.00  0.00    +0.000 A 
+ATOM     33 S32  73L A1001      35.381   0.048  -1.926  1.00  0.00    +0.000 S 
+ATOM     34 C33  73L A1001      37.625  -0.299  -3.596  1.00  0.00    +0.000 C 
+ATOM     35 N34  73L A1001      35.769  -1.952  -3.507  1.00  0.00    +0.000 NA
+ATOM     36 C35  73L A1001      33.801  -3.423  -3.225  1.00  0.00    +0.000 C 
+ENDBRANCH  29  31
+ENDBRANCH  12  29
+TORSDOF 7
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -8.211      1.582      4.801
+REMARK INTER + INTRA:         -12.591
+REMARK INTER:                 -11.491
+REMARK INTRA:                  -1.100
+REMARK UNBOUND:                -1.021
+REMARK  Name = structures/xdock/6HML_73L.pdb
+REMARK  11 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C35_35
+REMARK    2  A    between atoms: C2_2  and  C31_31
+REMARK    3  A    between atoms: C3_3  and  C33_33
+REMARK    4  A    between atoms: C6_6  and  S19_19
+REMARK    5  A    between atoms: C11_11  and  C12_12
+REMARK    6  A    between atoms: C11_11  and  N24_24
+REMARK    7  A    between atoms: C14_14  and  C17_17
+REMARK    8  A    between atoms: C14_14  and  N21_21
+REMARK    9  A    between atoms: S19_19  and  N21_21
+REMARK   10  A    between atoms: N26_26  and  C27_27
+REMARK   11  A    between atoms: N30_30  and  C31_31
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   73L A1001      31.304  -1.334  -4.695  1.00  0.00    +0.000 A 
+ATOM      2 C5   73L A1001      30.727  -1.313  -5.932  1.00  0.00    +0.000 A 
+ATOM      3 C6   73L A1001      29.879  -0.255  -6.278  1.00  0.00    +0.000 A 
+ATOM      4 C7   73L A1001      29.643   0.801  -5.376  1.00  0.00    +0.000 A 
+ATOM      5 C8   73L A1001      30.226   0.756  -4.097  1.00  0.00    +0.000 A 
+ATOM      6 C9   73L A1001      29.984   1.845  -3.150  1.00  0.00    +0.000 A 
+ATOM      7 C10  73L A1001      31.409   0.642  -1.515  1.00  0.00    +0.000 A 
+ATOM      8 C22  73L A1001      31.065  -0.327  -3.744  1.00  0.00    +0.000 A 
+ATOM      9 O23  73L A1001      29.299   2.828  -3.391  1.00  0.00    +0.000 OA
+ATOM     10 N24  73L A1001      30.620   1.717  -1.906  1.00  0.00    +0.000 N 
+ATOM     11 O29  73L A1001      31.916   0.611  -0.412  1.00  0.00    +0.000 OA
+ATOM     12 N30  73L A1001      31.643  -0.351  -2.447  1.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   3  14
+ATOM     13 O18  73L A1001      28.542   1.049  -8.043  1.00  0.00    +0.000 OA
+ATOM     14 S19  73L A1001      29.099  -0.256  -7.854  1.00  0.00    +0.000 S 
+ATOM     15 O20  73L A1001      30.008  -0.774  -8.828  1.00  0.00    +0.000 OA
+BRANCH  14  16
+ATOM     16 N21  73L A1001      27.812  -1.235  -7.755  1.00  0.00    +0.000 NA
+ATOM     17  H   73L A1001      27.627  -1.323  -6.756  1.00  0.00    +0.000 HD
+BRANCH  16  18
+ATOM     18 C14  73L A1001      27.684  -2.622  -8.289  1.00  0.00    +0.000 C 
+ATOM     19 C15  73L A1001      26.752  -3.520  -7.543  1.00  0.00    +0.000 C 
+ATOM     20 C16  73L A1001      28.240  -3.710  -7.430  1.00  0.00    +0.000 C 
+ATOM     21 C17  73L A1001      27.805  -2.727  -9.804  1.00  0.00    +0.000 C 
+ENDBRANCH  16  18
+ENDBRANCH  14  16
+ENDBRANCH   3  14
+BRANCH  10  22
+ATOM     22 C11  73L A1001      30.414   2.790  -0.940  1.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23 C12  73L A1001      31.483   3.842  -1.050  1.00  0.00    +0.000 A 
+ATOM     24 C13  73L A1001      31.667   4.797  -2.067  1.00  0.00    +0.000 A 
+ATOM     25 C25  73L A1001      32.503   4.066  -0.190  1.00  0.00    +0.000 A 
+ATOM     26 N26  73L A1001      33.219   5.089  -0.669  1.00  0.00    +0.000 N 
+ATOM     27 C27  73L A1001      34.417   5.697  -0.096  1.00  0.00    +0.000 C 
+ATOM     28 N28  73L A1001      32.712   5.560  -1.835  1.00  0.00    +0.000 NA
+ENDBRANCH  22  23
+ENDBRANCH  10  22
+BRANCH  12  29
+ATOM     29 C31  73L A1001      32.449  -1.495  -2.015  1.00  0.00    +0.000 C 
+BRANCH  29  31
+ATOM     30 C1   73L A1001      34.571  -2.375  -3.251  1.00  0.00    +0.000 A 
+ATOM     31 C2   73L A1001      33.896  -1.439  -2.513  1.00  0.00    +0.000 A 
+ATOM     32 C3   73L A1001      36.242  -0.923  -3.017  1.00  0.00    +0.000 A 
+ATOM     33 S32  73L A1001      34.956  -0.101  -2.163  1.00  0.00    +0.000 S 
+ATOM     34 C33  73L A1001      37.586  -0.301  -3.156  1.00  0.00    +0.000 C 
+ATOM     35 N34  73L A1001      35.887  -2.076  -3.535  1.00  0.00    +0.000 NA
+ATOM     36 C35  73L A1001      34.016  -3.677  -3.763  1.00  0.00    +0.000 C 
+ENDBRANCH  29  31
+ENDBRANCH  12  29
+TORSDOF 7
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -8.203      2.688      3.689
+REMARK INTER + INTRA:         -12.581
+REMARK INTER:                 -11.668
+REMARK INTRA:                  -0.913
+REMARK UNBOUND:                -1.021
+REMARK  Name = structures/xdock/6HML_73L.pdb
+REMARK  11 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C35_35
+REMARK    2  A    between atoms: C2_2  and  C31_31
+REMARK    3  A    between atoms: C3_3  and  C33_33
+REMARK    4  A    between atoms: C6_6  and  S19_19
+REMARK    5  A    between atoms: C11_11  and  C12_12
+REMARK    6  A    between atoms: C11_11  and  N24_24
+REMARK    7  A    between atoms: C14_14  and  C17_17
+REMARK    8  A    between atoms: C14_14  and  N21_21
+REMARK    9  A    between atoms: S19_19  and  N21_21
+REMARK   10  A    between atoms: N26_26  and  C27_27
+REMARK   11  A    between atoms: N30_30  and  C31_31
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   73L A1001      28.956   1.756  -3.247  1.00  0.00    +0.000 A 
+ATOM      2 C5   73L A1001      28.250   1.140  -4.240  1.00  0.00    +0.000 A 
+ATOM      3 C6   73L A1001      28.779  -0.001  -4.854  1.00  0.00    +0.000 A 
+ATOM      4 C7   73L A1001      30.012  -0.536  -4.434  1.00  0.00    +0.000 A 
+ATOM      5 C8   73L A1001      30.740   0.120  -3.426  1.00  0.00    +0.000 A 
+ATOM      6 C9   73L A1001      32.024  -0.423  -2.986  1.00  0.00    +0.000 A 
+ATOM      7 C10  73L A1001      32.195   1.468  -1.389  1.00  0.00    +0.000 A 
+ATOM      8 C22  73L A1001      30.211   1.287  -2.823  1.00  0.00    +0.000 A 
+ATOM      9 O23  73L A1001      32.532  -1.441  -3.433  1.00  0.00    +0.000 OA
+ATOM     10 N24  73L A1001      32.667   0.294  -1.964  1.00  0.00    +0.000 N 
+ATOM     11 O29  73L A1001      32.823   2.027  -0.513  1.00  0.00    +0.000 OA
+ATOM     12 N30  73L A1001      30.963   1.933  -1.806  1.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   3  14
+ATOM     13 O18  73L A1001      28.726  -1.803  -6.685  1.00  0.00    +0.000 OA
+ATOM     14 S19  73L A1001      27.891  -0.763  -6.166  1.00  0.00    +0.000 S 
+ATOM     15 O20  73L A1001      26.573  -1.086  -5.717  1.00  0.00    +0.000 OA
+BRANCH  14  16
+ATOM     16 N21  73L A1001      27.790   0.315  -7.372  1.00  0.00    +0.000 NA
+ATOM     17  H   73L A1001      26.835   0.229  -7.719  1.00  0.00    +0.000 HD
+BRANCH  16  18
+ATOM     18 C14  73L A1001      28.636   0.385  -8.599  1.00  0.00    +0.000 C 
+ATOM     19 C15  73L A1001      27.996   1.019  -9.791  1.00  0.00    +0.000 C 
+ATOM     20 C16  73L A1001      28.203  -0.471  -9.744  1.00  0.00    +0.000 C 
+ATOM     21 C17  73L A1001      30.123   0.579  -8.329  1.00  0.00    +0.000 C 
+ENDBRANCH  16  18
+ENDBRANCH  14  16
+ENDBRANCH   3  14
+BRANCH  10  22
+ATOM     22 C11  73L A1001      33.944  -0.225  -1.489  1.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23 C12  73L A1001      33.757  -1.179  -0.341  1.00  0.00    +0.000 A 
+ATOM     24 C13  73L A1001      33.483  -2.558  -0.388  1.00  0.00    +0.000 A 
+ATOM     25 C25  73L A1001      33.797  -0.889   0.979  1.00  0.00    +0.000 A 
+ATOM     26 N26  73L A1001      33.576  -2.024   1.650  1.00  0.00    +0.000 N 
+ATOM     27 C27  73L A1001      33.520  -2.221   3.096  1.00  0.00    +0.000 C 
+ATOM     28 N28  73L A1001      33.382  -3.076   0.816  1.00  0.00    +0.000 NA
+ENDBRANCH  22  23
+ENDBRANCH  10  22
+BRANCH  12  29
+ATOM     29 C31  73L A1001      30.489   3.187  -1.218  1.00  0.00    +0.000 C 
+BRANCH  29  31
+ATOM     30 C1   73L A1001      28.272   3.118   0.155  1.00  0.00    +0.000 A 
+ATOM     31 C2   73L A1001      29.629   2.983   0.033  1.00  0.00    +0.000 A 
+ATOM     32 C3   73L A1001      28.710   2.611   2.278  1.00  0.00    +0.000 A 
+ATOM     33 S32  73L A1001      30.311   2.549   1.577  1.00  0.00    +0.000 S 
+ATOM     34 C33  73L A1001      28.493   2.303   3.718  1.00  0.00    +0.000 C 
+ATOM     35 N34  73L A1001      27.761   2.902   1.418  1.00  0.00    +0.000 NA
+ATOM     36 C35  73L A1001      27.309   3.480  -0.944  1.00  0.00    +0.000 C 
+ENDBRANCH  29  31
+ENDBRANCH  12  29
+TORSDOF 7
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -8.152      2.274      3.166
+REMARK INTER + INTRA:         -12.509
+REMARK INTER:                 -11.782
+REMARK INTRA:                  -0.727
+REMARK UNBOUND:                -1.021
+REMARK  Name = structures/xdock/6HML_73L.pdb
+REMARK  11 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C35_35
+REMARK    2  A    between atoms: C2_2  and  C31_31
+REMARK    3  A    between atoms: C3_3  and  C33_33
+REMARK    4  A    between atoms: C6_6  and  S19_19
+REMARK    5  A    between atoms: C11_11  and  C12_12
+REMARK    6  A    between atoms: C11_11  and  N24_24
+REMARK    7  A    between atoms: C14_14  and  C17_17
+REMARK    8  A    between atoms: C14_14  and  N21_21
+REMARK    9  A    between atoms: S19_19  and  N21_21
+REMARK   10  A    between atoms: N26_26  and  C27_27
+REMARK   11  A    between atoms: N30_30  and  C31_31
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   73L A1001      29.161   1.753  -3.214  1.00  0.00    +0.000 A 
+ATOM      2 C5   73L A1001      28.465   1.190  -4.244  1.00  0.00    +0.000 A 
+ATOM      3 C6   73L A1001      28.940   0.012  -4.832  1.00  0.00    +0.000 A 
+ATOM      4 C7   73L A1001      30.106  -0.612  -4.349  1.00  0.00    +0.000 A 
+ATOM      5 C8   73L A1001      30.826  -0.009  -3.303  1.00  0.00    +0.000 A 
+ATOM      6 C9   73L A1001      32.042  -0.646  -2.796  1.00  0.00    +0.000 A 
+ATOM      7 C10  73L A1001      32.268   1.230  -1.189  1.00  0.00    +0.000 A 
+ATOM      8 C22  73L A1001      30.354   1.194  -2.726  1.00  0.00    +0.000 A 
+ATOM      9 O23  73L A1001      32.496  -1.700  -3.218  1.00  0.00    +0.000 OA
+ATOM     10 N24  73L A1001      32.681   0.024  -1.741  1.00  0.00    +0.000 N 
+ATOM     11 O29  73L A1001      32.889   1.743  -0.280  1.00  0.00    +0.000 OA
+ATOM     12 N30  73L A1001      31.097   1.785  -1.670  1.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   3  14
+ATOM     13 O18  73L A1001      28.914  -1.691  -6.756  1.00  0.00    +0.000 OA
+ATOM     14 S19  73L A1001      28.068  -0.685  -6.191  1.00  0.00    +0.000 S 
+ATOM     15 O20  73L A1001      26.748  -1.039  -5.771  1.00  0.00    +0.000 OA
+BRANCH  14  16
+ATOM     16 N21  73L A1001      27.971   0.455  -7.339  1.00  0.00    +0.000 NA
+ATOM     17  H   73L A1001      26.992   0.452  -7.626  1.00  0.00    +0.000 HD
+BRANCH  16  18
+ATOM     18 C14  73L A1001      28.743   0.526  -8.613  1.00  0.00    +0.000 C 
+ATOM     19 C15  73L A1001      28.041   1.180  -9.759  1.00  0.00    +0.000 C 
+ATOM     20 C16  73L A1001      28.231  -0.313  -9.738  1.00  0.00    +0.000 C 
+ATOM     21 C17  73L A1001      30.245   0.700  -8.431  1.00  0.00    +0.000 C 
+ENDBRANCH  16  18
+ENDBRANCH  14  16
+ENDBRANCH   3  14
+BRANCH  10  22
+ATOM     22 C11  73L A1001      33.890  -0.588  -1.201  1.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23 C12  73L A1001      35.109  -0.181  -1.982  1.00  0.00    +0.000 A 
+ATOM     24 C13  73L A1001      35.747   1.073  -2.012  1.00  0.00    +0.000 A 
+ATOM     25 C25  73L A1001      35.829  -0.946  -2.833  1.00  0.00    +0.000 A 
+ATOM     26 N26  73L A1001      36.823  -0.191  -3.313  1.00  0.00    +0.000 N 
+ATOM     27 C27  73L A1001      37.862  -0.570  -4.267  1.00  0.00    +0.000 C 
+ATOM     28 N28  73L A1001      36.792   1.067  -2.811  1.00  0.00    +0.000 NA
+ENDBRANCH  22  23
+ENDBRANCH  10  22
+BRANCH  12  29
+ATOM     29 C31  73L A1001      30.688   3.071  -1.104  1.00  0.00    +0.000 C 
+BRANCH  29  31
+ATOM     30 C1   73L A1001      28.403   3.121   0.156  1.00  0.00    +0.000 A 
+ATOM     31 C2   73L A1001      29.759   2.934   0.106  1.00  0.00    +0.000 A 
+ATOM     32 C3   73L A1001      28.715   2.657   2.311  1.00  0.00    +0.000 A 
+ATOM     33 S32  73L A1001      30.346   2.518   1.693  1.00  0.00    +0.000 S 
+ATOM     34 C33  73L A1001      28.416   2.398   3.745  1.00  0.00    +0.000 C 
+ATOM     35 N34  73L A1001      27.823   2.959   1.396  1.00  0.00    +0.000 NA
+ATOM     36 C35  73L A1001      27.511   3.487  -1.000  1.00  0.00    +0.000 C 
+ENDBRANCH  29  31
+ENDBRANCH  12  29
+TORSDOF 7
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -7.894      2.938      3.878
+REMARK INTER + INTRA:         -12.145
+REMARK INTER:                 -11.489
+REMARK INTRA:                  -0.656
+REMARK UNBOUND:                -1.021
+REMARK  Name = structures/xdock/6HML_73L.pdb
+REMARK  11 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C35_35
+REMARK    2  A    between atoms: C2_2  and  C31_31
+REMARK    3  A    between atoms: C3_3  and  C33_33
+REMARK    4  A    between atoms: C6_6  and  S19_19
+REMARK    5  A    between atoms: C11_11  and  C12_12
+REMARK    6  A    between atoms: C11_11  and  N24_24
+REMARK    7  A    between atoms: C14_14  and  C17_17
+REMARK    8  A    between atoms: C14_14  and  N21_21
+REMARK    9  A    between atoms: S19_19  and  N21_21
+REMARK   10  A    between atoms: N26_26  and  C27_27
+REMARK   11  A    between atoms: N30_30  and  C31_31
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   73L A1001      29.623   2.815  -1.665  1.00  0.00    +0.000 A 
+ATOM      2 C5   73L A1001      29.173   2.700  -2.948  1.00  0.00    +0.000 A 
+ATOM      3 C6   73L A1001      29.677   1.683  -3.766  1.00  0.00    +0.000 A 
+ATOM      4 C7   73L A1001      30.617   0.760  -3.267  1.00  0.00    +0.000 A 
+ATOM      5 C8   73L A1001      31.089   0.903  -1.951  1.00  0.00    +0.000 A 
+ATOM      6 C9   73L A1001      32.069  -0.047  -1.423  1.00  0.00    +0.000 A 
+ATOM      7 C10  73L A1001      32.035   1.215   0.713  1.00  0.00    +0.000 A 
+ATOM      8 C22  73L A1001      30.592   1.947  -1.134  1.00  0.00    +0.000 A 
+ATOM      9 O23  73L A1001      32.522  -0.992  -2.053  1.00  0.00    +0.000 OA
+ATOM     10 N24  73L A1001      32.468   0.170  -0.095  1.00  0.00    +0.000 N 
+ATOM     11 O29  73L A1001      32.440   1.330   1.851  1.00  0.00    +0.000 OA
+ATOM     12 N30  73L A1001      31.084   2.072   0.192  1.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   3  14
+ATOM     13 O18  73L A1001      28.053   0.627  -5.454  1.00  0.00    +0.000 OA
+ATOM     14 S19  73L A1001      29.132   1.567  -5.433  1.00  0.00    +0.000 S 
+ATOM     15 O20  73L A1001      28.919   2.883  -5.951  1.00  0.00    +0.000 OA
+BRANCH  14  16
+ATOM     16 N21  73L A1001      30.312   0.849  -6.280  1.00  0.00    +0.000 NA
+ATOM     17  H   73L A1001      30.899   1.615  -6.610  1.00  0.00    +0.000 HD
+BRANCH  16  18
+ATOM     18 C14  73L A1001      30.163  -0.053  -7.458  1.00  0.00    +0.000 C 
+ATOM     19 C15  73L A1001      29.969  -1.501  -7.145  1.00  0.00    +0.000 C 
+ATOM     20 C16  73L A1001      31.282  -1.014  -7.695  1.00  0.00    +0.000 C 
+ATOM     21 C17  73L A1001      29.452   0.577  -8.649  1.00  0.00    +0.000 C 
+ENDBRANCH  16  18
+ENDBRANCH  14  16
+ENDBRANCH   3  14
+BRANCH  10  22
+ATOM     22 C11  73L A1001      33.434  -0.765   0.470  1.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23 C12  73L A1001      34.832  -0.460   0.005  1.00  0.00    +0.000 A 
+ATOM     24 C13  73L A1001      35.781  -1.343  -0.542  1.00  0.00    +0.000 A 
+ATOM     25 C25  73L A1001      35.463   0.735   0.039  1.00  0.00    +0.000 A 
+ATOM     26 N26  73L A1001      36.689   0.559  -0.467  1.00  0.00    +0.000 N 
+ATOM     27 C27  73L A1001      37.745   1.553  -0.637  1.00  0.00    +0.000 C 
+ATOM     28 N28  73L A1001      36.905  -0.727  -0.838  1.00  0.00    +0.000 NA
+ENDBRANCH  22  23
+ENDBRANCH  10  22
+BRANCH  12  29
+ATOM     29 C31  73L A1001      30.657   3.188   1.039  1.00  0.00    +0.000 C 
+BRANCH  29  31
+ATOM     30 C1   73L A1001      28.192   2.829   1.812  1.00  0.00    +0.000 A 
+ATOM     31 C2   73L A1001      29.545   2.812   2.022  1.00  0.00    +0.000 A 
+ATOM     32 C3   73L A1001      28.151   2.179   3.942  1.00  0.00    +0.000 A 
+ATOM     33 S32  73L A1001      29.873   2.303   3.656  1.00  0.00    +0.000 S 
+ATOM     34 C33  73L A1001      27.625   1.735   5.260  1.00  0.00    +0.000 C 
+ATOM     35 N34  73L A1001      27.415   2.467   2.893  1.00  0.00    +0.000 NA
+ATOM     36 C35  73L A1001      27.492   3.205   0.534  1.00  0.00    +0.000 C 
+ENDBRANCH  29  31
+ENDBRANCH  12  29
+TORSDOF 7
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -7.774      3.215      4.284
+REMARK INTER + INTRA:         -11.976
+REMARK INTER:                 -10.959
+REMARK INTRA:                  -1.018
+REMARK UNBOUND:                -1.021
+REMARK  Name = structures/xdock/6HML_73L.pdb
+REMARK  11 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C35_35
+REMARK    2  A    between atoms: C2_2  and  C31_31
+REMARK    3  A    between atoms: C3_3  and  C33_33
+REMARK    4  A    between atoms: C6_6  and  S19_19
+REMARK    5  A    between atoms: C11_11  and  C12_12
+REMARK    6  A    between atoms: C11_11  and  N24_24
+REMARK    7  A    between atoms: C14_14  and  C17_17
+REMARK    8  A    between atoms: C14_14  and  N21_21
+REMARK    9  A    between atoms: S19_19  and  N21_21
+REMARK   10  A    between atoms: N26_26  and  C27_27
+REMARK   11  A    between atoms: N30_30  and  C31_31
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   73L A1001      31.326   0.394  -2.427  1.00  0.00    +0.000 A 
+ATOM      2 C5   73L A1001      30.599   1.036  -3.388  1.00  0.00    +0.000 A 
+ATOM      3 C6   73L A1001      30.386   0.411  -4.622  1.00  0.00    +0.000 A 
+ATOM      4 C7   73L A1001      30.886  -0.882  -4.868  1.00  0.00    +0.000 A 
+ATOM      5 C8   73L A1001      31.653  -1.523  -3.879  1.00  0.00    +0.000 A 
+ATOM      6 C9   73L A1001      32.182  -2.865  -4.126  1.00  0.00    +0.000 A 
+ATOM      7 C10  73L A1001      33.206  -2.798  -1.867  1.00  0.00    +0.000 A 
+ATOM      8 C22  73L A1001      31.884  -0.879  -2.641  1.00  0.00    +0.000 A 
+ATOM      9 O23  73L A1001      31.999  -3.499  -5.154  1.00  0.00    +0.000 OA
+ATOM     10 N24  73L A1001      32.922  -3.426  -3.074  1.00  0.00    +0.000 N 
+ATOM     11 O29  73L A1001      33.862  -3.358  -1.013  1.00  0.00    +0.000 OA
+ATOM     12 N30  73L A1001      32.662  -1.545  -1.656  1.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   3  14
+ATOM     13 O18  73L A1001      28.124   0.849  -5.759  1.00  0.00    +0.000 OA
+ATOM     14 S19  73L A1001      29.490   1.261  -5.874  1.00  0.00    +0.000 S 
+ATOM     15 O20  73L A1001      29.806   2.654  -5.815  1.00  0.00    +0.000 OA
+BRANCH  14  16
+ATOM     16 N21  73L A1001      29.974   0.667  -7.302  1.00  0.00    +0.000 NA
+ATOM     17  H   73L A1001      30.332   1.474  -7.811  1.00  0.00    +0.000 HD
+BRANCH  16  18
+ATOM     18 C14  73L A1001      29.153  -0.080  -8.298  1.00  0.00    +0.000 C 
+ATOM     19 C15  73L A1001      28.634  -1.406  -7.846  1.00  0.00    +0.000 C 
+ATOM     20 C16  73L A1001      29.760  -1.332  -8.842  1.00  0.00    +0.000 C 
+ATOM     21 C17  73L A1001      28.313   0.804  -9.212  1.00  0.00    +0.000 C 
+ENDBRANCH  16  18
+ENDBRANCH  14  16
+ENDBRANCH   3  14
+BRANCH  10  22
+ATOM     22 C11  73L A1001      33.454  -4.769  -3.277  1.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23 C12  73L A1001      32.483  -5.821  -2.815  1.00  0.00    +0.000 A 
+ATOM     24 C13  73L A1001      31.500  -6.491  -3.565  1.00  0.00    +0.000 A 
+ATOM     25 C25  73L A1001      32.353  -6.321  -1.565  1.00  0.00    +0.000 A 
+ATOM     26 N26  73L A1001      31.370  -7.229  -1.593  1.00  0.00    +0.000 N 
+ATOM     27 C27  73L A1001      30.858  -8.037  -0.490  1.00  0.00    +0.000 C 
+ATOM     28 N28  73L A1001      30.830  -7.352  -2.831  1.00  0.00    +0.000 NA
+ENDBRANCH  22  23
+ENDBRANCH  10  22
+BRANCH  12  29
+ATOM     29 C31  73L A1001      32.993  -0.878  -0.396  1.00  0.00    +0.000 C 
+BRANCH  29  31
+ATOM     30 C1   73L A1001      33.887   1.548  -0.044  1.00  0.00    +0.000 A 
+ATOM     31 C2   73L A1001      33.976   0.284  -0.564  1.00  0.00    +0.000 A 
+ATOM     32 C3   73L A1001      35.784   1.828  -1.174  1.00  0.00    +0.000 A 
+ATOM     33 S32  73L A1001      35.424   0.153  -1.526  1.00  0.00    +0.000 S 
+ATOM     34 C33  73L A1001      37.014   2.473  -1.707  1.00  0.00    +0.000 C 
+ATOM     35 N34  73L A1001      34.909   2.409  -0.386  1.00  0.00    +0.000 NA
+ATOM     36 C35  73L A1001      32.791   2.070   0.846  1.00  0.00    +0.000 C 
+ENDBRANCH  29  31
+ENDBRANCH  12  29
+TORSDOF 7
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:    -7.585      3.404      5.695
+REMARK INTER + INTRA:         -11.710
+REMARK INTER:                 -10.925
+REMARK INTRA:                  -0.785
+REMARK UNBOUND:                -1.021
+REMARK  Name = structures/xdock/6HML_73L.pdb
+REMARK  11 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C35_35
+REMARK    2  A    between atoms: C2_2  and  C31_31
+REMARK    3  A    between atoms: C3_3  and  C33_33
+REMARK    4  A    between atoms: C6_6  and  S19_19
+REMARK    5  A    between atoms: C11_11  and  C12_12
+REMARK    6  A    between atoms: C11_11  and  N24_24
+REMARK    7  A    between atoms: C14_14  and  C17_17
+REMARK    8  A    between atoms: C14_14  and  N21_21
+REMARK    9  A    between atoms: S19_19  and  N21_21
+REMARK   10  A    between atoms: N26_26  and  C27_27
+REMARK   11  A    between atoms: N30_30  and  C31_31
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   73L A1001      31.529   1.142  -1.166  1.00  0.00    +0.000 A 
+ATOM      2 C5   73L A1001      30.755   0.879  -2.258  1.00  0.00    +0.000 A 
+ATOM      3 C6   73L A1001      30.446   1.913  -3.148  1.00  0.00    +0.000 A 
+ATOM      4 C7   73L A1001      30.954   3.211  -2.944  1.00  0.00    +0.000 A 
+ATOM      5 C8   73L A1001      31.732   3.474  -1.803  1.00  0.00    +0.000 A 
+ATOM      6 C9   73L A1001      32.260   4.820  -1.579  1.00  0.00    +0.000 A 
+ATOM      7 C10  73L A1001      33.297   3.985   0.514  1.00  0.00    +0.000 A 
+ATOM      8 C22  73L A1001      32.023   2.429  -0.894  1.00  0.00    +0.000 A 
+ATOM      9 O23  73L A1001      32.081   5.766  -2.332  1.00  0.00    +0.000 OA
+ATOM     10 N24  73L A1001      33.036   4.980  -0.420  1.00  0.00    +0.000 N 
+ATOM     11 O29  73L A1001      33.976   4.215   1.495  1.00  0.00    +0.000 OA
+ATOM     12 N30  73L A1001      32.810   2.718   0.252  1.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   3  14
+ATOM     13 O18  73L A1001      28.177   1.069  -4.009  1.00  0.00    +0.000 OA
+ATOM     14 S19  73L A1001      29.408   1.582  -4.528  1.00  0.00    +0.000 S 
+ATOM     15 O20  73L A1001      29.381   2.728  -5.382  1.00  0.00    +0.000 OA
+BRANCH  14  16
+ATOM     16 N21  73L A1001      30.058   0.335  -5.334  1.00  0.00    +0.000 NA
+ATOM     17  H   73L A1001      31.066   0.448  -5.218  1.00  0.00    +0.000 HD
+BRANCH  16  18
+ATOM     18 C14  73L A1001      29.876  -0.008  -6.774  1.00  0.00    +0.000 C 
+ATOM     19 C15  73L A1001      30.936  -0.875  -7.372  1.00  0.00    +0.000 C 
+ATOM     20 C16  73L A1001      30.866   0.587  -7.721  1.00  0.00    +0.000 C 
+ATOM     21 C17  73L A1001      28.423  -0.161  -7.206  1.00  0.00    +0.000 C 
+ENDBRANCH  16  18
+ENDBRANCH  14  16
+ENDBRANCH   3  14
+BRANCH  10  22
+ATOM     22 C11  73L A1001      33.593   6.305  -0.169  1.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23 C12  73L A1001      34.721   6.615  -1.114  1.00  0.00    +0.000 A 
+ATOM     24 C13  73L A1001      35.862   5.842  -1.394  1.00  0.00    +0.000 A 
+ATOM     25 C25  73L A1001      34.869   7.723  -1.876  1.00  0.00    +0.000 A 
+ATOM     26 N26  73L A1001      36.011   7.593  -2.561  1.00  0.00    +0.000 N 
+ATOM     27 C27  73L A1001      36.602   8.530  -3.512  1.00  0.00    +0.000 C 
+ATOM     28 N28  73L A1001      36.642   6.427  -2.277  1.00  0.00    +0.000 NA
+ENDBRANCH  22  23
+ENDBRANCH  10  22
+BRANCH  12  29
+ATOM     29 C31  73L A1001      33.063   1.685   1.258  1.00  0.00    +0.000 C 
+BRANCH  29  31
+ATOM     30 C1   73L A1001      32.026   0.916   3.525  1.00  0.00    +0.000 A 
+ATOM     31 C2   73L A1001      32.006   1.645   2.366  1.00  0.00    +0.000 A 
+ATOM     32 C3   73L A1001      30.034   1.869   3.810  1.00  0.00    +0.000 A 
+ATOM     33 S32  73L A1001      30.528   2.564   2.282  1.00  0.00    +0.000 S 
+ATOM     34 C33  73L A1001      28.739   2.246   4.438  1.00  0.00    +0.000 C 
+ATOM     35 N34  73L A1001      30.917   1.050   4.334  1.00  0.00    +0.000 NA
+ATOM     36 C35  73L A1001      33.125  -0.005   3.981  1.00  0.00    +0.000 C 
+ENDBRANCH  29  31
+ENDBRANCH  12  29
+TORSDOF 7
+ENDMDL

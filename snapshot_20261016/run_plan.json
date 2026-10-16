@@ -1,0 +1,24 @@
+{
+  "source": "/home/aliwhoami/parg",
+  "inputs": "Frozen raw ChEMBL and ZINC snapshots; existing prepared receptors and ligand inputs copied and hashed.",
+  "fresh_outputs": true,
+  "steps": [
+    "curation",
+    "splits",
+    "ML benchmarks and final model",
+    "Chemprop seeds 0,1,2 (50 epochs each)",
+    "3.2M library screening",
+    "novelty",
+    "native redocking",
+    "dry/wet crossdocking",
+    "state B and box16 diagnostics",
+    "top100/random100 control",
+    "statistics and figures"
+  ],
+  "limitations": [
+    "No new ChEMBL/ZINC download; reproduce saved dataset.",
+    "Prepared receptor chemistry is reused, not independently revalidated by this execution.",
+    "RMSD uses saved CCD connectivity query without pose alignment; bond orders and stereochemistry are not enforced.",
+    "No Boltz or molecular dynamics workflow exists in this project."
+  ]
+}

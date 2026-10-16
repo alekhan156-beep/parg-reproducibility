@@ -1,0 +1,43 @@
+REMARK  Name = structures/xdock/7KG8_WDM.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_7
+REMARK    2  A    between atoms: C2_2  and  N14_14
+REMARK    3  A    between atoms: C4_4  and  N15_15
+REMARK    4  A    between atoms: C6_6  and  S22_22
+REMARK    5  A    between atoms: C7_7  and  S22_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C2   WDM A1001      24.370   6.452   0.075  1.00  0.00    +0.000 C 
+ATOM      2 C3   WDM A1001      23.509   4.265   0.929  1.00  0.00    +0.000 A 
+ATOM      3 C4   WDM A1001      22.499   2.202   1.819  1.00  0.00    +0.000 C 
+ATOM      4 C5   WDM A1001      24.817   2.286   0.867  1.00  0.00    +0.000 A 
+ATOM      5 C6   WDM A1001      26.412   0.863   0.573  1.00  0.00    +0.000 A 
+ATOM      6 C12  WDM A1001      25.870   2.997   0.291  1.00  0.00    +0.000 A 
+ATOM      7 C13  WDM A1001      25.760   4.389   0.000  1.00  0.00    +0.000 A 
+ATOM      8 N14  WDM A1001      24.550   5.008   0.338  1.00  0.00    +0.000 N 
+ATOM      9 N15  WDM A1001      23.606   2.898   1.211  1.00  0.00    +0.000 N 
+ATOM     10 N16  WDM A1001      25.146   0.959   1.052  1.00  0.00    +0.000 N 
+ATOM     11 N18  WDM A1001      26.863   2.066   0.107  1.00  0.00    +0.000 NA
+ATOM     12 O21  WDM A1001      22.438   4.846   1.226  1.00  0.00    +0.000 OA
+ATOM     13 S23  WDM A1001      26.946   5.237  -0.667  1.00  0.00    +0.000 S 
+ATOM     14  H   WDM A1001      24.590   0.246   1.442  1.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   5  15
+ATOM     15 S22  WDM A1001      27.316  -0.624   0.579  1.00  0.00    +0.000 S 
+BRANCH  15  16
+ATOM     16 C7   WDM A1001      29.095  -0.337   0.160  1.00  0.00    +0.000 C 
+BRANCH  16  17
+ATOM     17 C1   WDM A1001      29.364  -0.120  -1.325  1.00  0.00    +0.000 C 
+ATOM     18 C8   WDM A1001      31.906   0.159  -1.121  1.00  0.00    +0.000 C 
+ATOM     19 C9   WDM A1001      33.160  -0.071  -2.061  1.00  0.00    +0.000 C 
+ATOM     20 C10  WDM A1001      32.066  -0.441  -3.947  1.00  0.00    +0.000 C 
+ATOM     21 C11  WDM A1001      30.860   0.298  -3.319  1.00  0.00    +0.000 C 
+ATOM     22 N17  WDM A1001      30.622   0.069  -1.875  1.00  0.00    +0.000 N 
+ATOM     23 O19  WDM A1001      32.883  -1.082  -2.961  1.00  0.00    +0.000 OA
+ATOM     24 O20  WDM A1001      28.381  -0.126  -2.106  1.00  0.00    +0.000 OA
+ENDBRANCH  16  17
+ENDBRANCH  15  16
+ENDBRANCH   5  15
+TORSDOF 3

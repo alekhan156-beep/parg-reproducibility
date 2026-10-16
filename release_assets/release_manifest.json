@@ -1,0 +1,18 @@
+{
+  "created_utc": "2026-10-16T15:14:31.031713+00:00",
+  "repository_name": "parg-reproducibility",
+  "visibility": "private",
+  "run": "/home/aliwhoami/parg/runs/20261016_132012",
+  "files": 888,
+  "archives": {
+    "parg-large-inputs.tar.gz": {
+      "sha256": "899a9724069e7d16d5e426cdbb87f11806bd0344f200fc3f7d2c008fcd4eadef",
+      "bytes": 189956741
+    },
+    "parg-reproducibility.zip": {
+      "sha256": "930ac9dfb60f66759495df6006a3a755b64c7833eb0479f7413d8ea73083a4e8",
+      "bytes": 90989245
+    }
+  },
+  "excluded_large_historical_files": []
+}

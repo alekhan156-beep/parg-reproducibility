@@ -1,0 +1,10 @@
+runs/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.pem
+*.key
+data/zinc_instock.smi
+results/screen_all.csv
+vina_1.2.5_linux_x86_64

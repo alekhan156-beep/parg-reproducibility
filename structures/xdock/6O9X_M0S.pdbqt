@@ -1,0 +1,43 @@
+REMARK  Name = structures/xdock/6O9X_M0S.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_3  and  N18_18
+REMARK    2  A    between atoms: C4_4  and  S19_19
+REMARK    3  A    between atoms: C5_5  and  C6_6
+REMARK    4  A    between atoms: C5_5  and  S19_19
+REMARK    5  A    between atoms: C6_6  and  N20_20
+REMARK    6  A    between atoms: N11_11  and  C12_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C1   M0S A1001      26.034   2.930   0.158  1.00  0.00    +0.000 C 
+ATOM      2 C2   M0S A1001      23.652   4.192   1.010  1.00  0.00    +0.000 C 
+ATOM      3 C3   M0S A1001      24.481   6.386   0.408  1.00  0.00    +0.000 C 
+ATOM      4 C4   M0S A1001      26.558   0.918   0.401  1.00  0.00    +0.000 C 
+ATOM      5 O10  M0S A1001      22.638   4.835   1.322  1.00  0.00    +0.000 OA
+ATOM      6 N11  M0S A1001      23.773   2.759   1.176  1.00  0.00    +0.000 N 
+ATOM      7 C12  M0S A1001      22.611   2.060   1.747  1.00  0.00    +0.000 C 
+ATOM      8 C13  M0S A1001      24.960   2.178   0.870  1.00  0.00    +0.000 C 
+ATOM      9 N14  M0S A1001      25.314   0.858   0.903  1.00  0.00    +0.000 NA
+ATOM     10 N15  M0S A1001      27.102   2.130  -0.028  1.00  0.00    +0.000 NA
+ATOM     11 C16  M0S A1001      25.948   4.349   0.175  1.00  0.00    +0.000 C 
+ATOM     12 S17  M0S A1001      27.242   5.278  -0.722  1.00  0.00    +0.000 S 
+ATOM     13 N18  M0S A1001      24.667   4.943   0.425  1.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   4  14
+ATOM     14 S19  M0S A1001      27.446  -0.573   0.367  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C5   M0S A1001      29.124  -0.323  -0.115  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C6   M0S A1001      29.173   0.292  -1.496  1.00  0.00    +0.000 C 
+BRANCH  16  20
+ATOM     17 C7   M0S A1001      29.862   2.039  -3.066  1.00  0.00    +0.000 C 
+ATOM     18 C8   M0S A1001      31.170   3.531  -1.754  1.00  0.00    +0.000 C 
+ATOM     19 C9   M0S A1001      30.413   2.526  -0.865  1.00  0.00    +0.000 C 
+ATOM     20 N20  M0S A1001      30.200   1.367  -1.764  1.00  0.00    +0.000 NA
+ATOM     21 C21  M0S A1001      30.575   3.375  -3.140  1.00  0.00    +0.000 C 
+ENDBRANCH  16  20
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   4  14
+TORSDOF 4

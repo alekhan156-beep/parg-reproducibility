@@ -1,0 +1,42 @@
+[
+  {
+    "water": 1211,
+    "nearest_ligand_atom": "H121",
+    "ligand_all_distance": 3.0064198970794678,
+    "nearest_heavy_atom": "C12",
+    "ligand_heavy_distance": 3.800257682800293,
+    "protein_NO_distance": 2.754124641418457
+  },
+  {
+    "water": 1232,
+    "nearest_ligand_atom": "H182",
+    "ligand_all_distance": 2.993171453475952,
+    "nearest_heavy_atom": "C18",
+    "ligand_heavy_distance": 3.913262128829956,
+    "protein_NO_distance": 2.775097370147705
+  },
+  {
+    "water": 1307,
+    "nearest_ligand_atom": "H182",
+    "ligand_all_distance": 2.769625663757324,
+    "nearest_heavy_atom": "C18",
+    "ligand_heavy_distance": 3.5811209678649902,
+    "protein_NO_distance": 2.8901920318603516
+  },
+  {
+    "water": 1317,
+    "nearest_ligand_atom": "H051",
+    "ligand_all_distance": 2.2214484214782715,
+    "nearest_heavy_atom": "N05",
+    "ligand_heavy_distance": 2.8864223957061768,
+    "protein_NO_distance": 3.3031649589538574
+  },
+  {
+    "water": 1402,
+    "nearest_ligand_atom": "H141",
+    "ligand_all_distance": 3.1808102130889893,
+    "nearest_heavy_atom": "C14",
+    "ligand_heavy_distance": 3.9872264862060547,
+    "protein_NO_distance": 3.241183042526245
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "n": 870,
+  "active_ge6": 510,
+  "inactive_le5": 35,
+  "between5and6": 325,
+  "chemprop_split_sizes": {
+    "train": 518,
+    "val": 92,
+    "test": 260
+  }
+}

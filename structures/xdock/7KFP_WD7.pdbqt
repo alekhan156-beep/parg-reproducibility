@@ -1,0 +1,48 @@
+REMARK  Name = structures/xdock/7KFP_WD7.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_3  and  N12_12
+REMARK    2  A    between atoms: C5_5  and  N13_13
+REMARK    3  A    between atoms: C8_8  and  C9_9
+REMARK    4  A    between atoms: C8_8  and  N15_15
+REMARK    5  A    between atoms: C9_9  and  N16_16
+REMARK    6  A    between atoms: C11_11  and  S22_22
+REMARK    7  A    between atoms: N17_17  and  S22_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C1   WD7 A1001      25.961   2.512   0.915  1.00  0.00    +0.000 A 
+ATOM      2 C2   WD7 A1001      24.805   1.663   1.380  1.00  0.00    +0.000 A 
+ATOM      3 C3   WD7 A1001      22.430   1.484   1.884  1.00  0.00    +0.000 C 
+ATOM      4 C4   WD7 A1001      23.462   3.355   1.128  1.00  0.00    +0.000 A 
+ATOM      5 C5   WD7 A1001      24.371   5.598   0.302  1.00  0.00    +0.000 C 
+ATOM      6 C6   WD7 A1001      25.678   3.815   0.573  1.00  0.00    +0.000 A 
+ATOM      7 C7   WD7 A1001      27.831   3.400   0.297  1.00  0.00    +0.000 A 
+ATOM      8 N12  WD7 A1001      23.577   2.253   1.438  1.00  0.00    +0.000 N 
+ATOM      9 N13  WD7 A1001      24.636   4.207   0.650  1.00  0.00    +0.000 N 
+ATOM     10 N14  WD7 A1001      26.884   4.364   0.190  1.00  0.00    +0.000 NA
+ATOM     11 N15  WD7 A1001      27.230   2.351   0.703  1.00  0.00    +0.000 N 
+ATOM     12 O21  WD7 A1001      22.397   3.903   1.170  1.00  0.00    +0.000 OA
+ATOM     13 S23  WD7 A1001      25.042   0.116   1.779  1.00  0.00    +0.000 S 
+ENDROOT
+BRANCH  11  14
+ATOM     14 C8   WD7 A1001      27.969   1.101   1.000  1.00  0.00    +0.000 C 
+BRANCH  14  15
+ATOM     15 C9   WD7 A1001      28.164   0.125  -0.149  1.00  0.00    +0.000 C 
+BRANCH  15  17
+ATOM     16 C10  WD7 A1001      29.089   0.689  -2.325  1.00  0.00    +0.000 C 
+ATOM     17 N16  WD7 A1001      29.334   0.584  -0.897  1.00  0.00    +0.000 N 
+ATOM     18 N17  WD7 A1001      30.068   1.114  -3.331  1.00  0.00    +0.000 N 
+ATOM     19 O20  WD7 A1001      28.002   0.376  -2.640  1.00  0.00    +0.000 OA
+ATOM     20  H   WD7 A1001      30.198   0.799  -0.476  1.00  0.00    +0.000 HD
+ATOM     21  H   WD7 A1001      30.993   1.367  -3.110  1.00  0.00    +0.000 HD
+BRANCH  18  25
+ATOM     22 C11  WD7 A1001      29.235   2.872  -5.446  1.00  0.00    +0.000 C 
+ATOM     23 O18  WD7 A1001      28.165   0.439  -4.852  1.00  0.00    +0.000 OA
+ATOM     24 O19  WD7 A1001      30.218   0.322  -5.874  1.00  0.00    +0.000 OA
+ATOM     25 S22  WD7 A1001      29.448   1.128  -4.929  1.00  0.00    +0.000 S 
+ENDBRANCH  18  25
+ENDBRANCH  15  17
+ENDBRANCH  14  15
+ENDBRANCH  11  14
+TORSDOF 4

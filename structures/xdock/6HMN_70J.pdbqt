@@ -1,0 +1,54 @@
+REMARK  Name = structures/xdock/6HMN_70J.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N27_27
+REMARK    2  A    between atoms: C1_1  and  C28_28
+REMARK    3  A    between atoms: C9_9  and  C10_10
+REMARK    4  A    between atoms: C9_9  and  N16_16
+REMARK    5  A    between atoms: C14_14  and  N21_21
+REMARK    6  A    between atoms: C23_23  and  S24_24
+REMARK    7  A    between atoms: S24_24  and  N27_27
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C4   70J A1001      26.511   2.027   2.913  1.00  0.00    +0.000 A 
+ATOM      2 C5   70J A1001      26.336   2.440   1.578  1.00  0.00    +0.000 A 
+ATOM      3 C6   70J A1001      25.050   2.682   1.092  1.00  0.00    +0.000 A 
+ATOM      4 C7   70J A1001      27.492   2.608   0.692  1.00  0.00    +0.000 A 
+ATOM      5 C8   70J A1001      28.952   1.899   2.558  1.00  0.00    +0.000 A 
+ATOM      6 C14  70J A1001      29.917   2.488   0.387  1.00  0.00    +0.000 C 
+ATOM      7 O15  70J A1001      30.075   1.677   2.968  1.00  0.00    +0.000 OA
+ATOM      8 N16  70J A1001      27.842   1.760   3.378  1.00  0.00    +0.000 N 
+ATOM      9 C19  70J A1001      25.386   1.863   3.724  1.00  0.00    +0.000 A 
+ATOM     10 C20  70J A1001      24.115   2.134   3.243  1.00  0.00    +0.000 A 
+ATOM     11 N21  70J A1001      28.736   2.327   1.245  1.00  0.00    +0.000 N 
+ATOM     12 O22  70J A1001      27.402   2.981  -0.466  1.00  0.00    +0.000 OA
+ATOM     13 C23  70J A1001      23.956   2.567   1.936  1.00  0.00    +0.000 A 
+ENDROOT
+BRANCH  13  14
+ATOM     14 S24  70J A1001      22.340   2.916   1.321  1.00  0.00    +0.000 S 
+ATOM     15 O25  70J A1001      22.421   3.051  -0.100  1.00  0.00    +0.000 OA
+ATOM     16 O26  70J A1001      21.792   3.986   2.095  1.00  0.00    +0.000 OA
+BRANCH  14  17
+ATOM     17 N27  70J A1001      21.417   1.613   1.606  1.00  0.00    +0.000 NA
+ATOM     18  H   70J A1001      21.587   1.383   2.585  1.00  0.00    +0.000 HD
+BRANCH  17  19
+ATOM     19 C1   70J A1001      21.449   0.303   0.898  1.00  0.00    +0.000 C 
+ATOM     20 C2   70J A1001      20.645   0.218  -0.355  1.00  0.00    +0.000 C 
+ATOM     21 C3   70J A1001      20.172  -0.471   0.891  1.00  0.00    +0.000 C 
+ATOM     22 C28  70J A1001      22.772  -0.445   1.028  1.00  0.00    +0.000 C 
+ENDBRANCH  17  19
+ENDBRANCH  14  17
+ENDBRANCH  13  14
+BRANCH   8  23
+ATOM     23 C9   70J A1001      28.073   1.242   4.758  1.00  0.00    +0.000 C 
+BRANCH  23  24
+ATOM     24 C10  70J A1001      28.438   2.303   5.767  1.00  0.00    +0.000 A 
+ATOM     25 C11  70J A1001      27.507   3.244   6.192  1.00  0.00    +0.000 A 
+ATOM     26 C12  70J A1001      27.847   4.204   7.132  1.00  0.00    +0.000 A 
+ATOM     27 C13  70J A1001      29.113   4.221   7.678  1.00  0.00    +0.000 A 
+ATOM     28 C17  70J A1001      29.698   2.315   6.349  1.00  0.00    +0.000 A 
+ATOM     29 C18  70J A1001      30.036   3.276   7.291  1.00  0.00    +0.000 A 
+ENDBRANCH  23  24
+ENDBRANCH   8  23
+TORSDOF 5

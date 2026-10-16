@@ -1,0 +1,16 @@
+{
+  "python": "3.11.16",
+  "platform": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "cpu_count": 8,
+  "packages": {
+    "numpy": "2.4.6",
+    "pandas": "3.0.6",
+    "scipy": "1.17.1",
+    "rdkit": "2026.3.6",
+    "lightgbm": "4.7.0",
+    "scikit-learn": "1.9.1",
+    "chemprop": "2.3.1",
+    "torch": "2.14.1"
+  },
+  "cuda_available_preflight": false
+}

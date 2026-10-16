@@ -1,0 +1,549 @@
+MODEL 1
+REMARK VINA RESULT:    -8.194      0.000      0.000
+REMARK INTER + INTRA:         -11.175
+REMARK INTER:                 -10.829
+REMARK INTRA:                  -0.347
+REMARK UNBOUND:                -0.347
+REMARK  Name = structures/xdock/7KG6_WDG.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C12_12
+REMARK    2  A    between atoms: C1_1  and  S25_25
+REMARK    3  A    between atoms: N2_2  and  C12_12
+REMARK    4  A    between atoms: C4_4  and  C14_14
+REMARK    5  A    between atoms: C7_7  and  N17_17
+REMARK    6  A    between atoms: C9_9  and  N18_18
+REMARK    7  A    between atoms: C11_11  and  S25_25
+REMARK    8  A    between atoms: C14_14  and  O21_21
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C6   WDG A1001      28.421   0.846  -0.945  1.00  0.00    +0.000 C 
+ATOM      2 C7   WDG A1001      25.250   1.673   1.025  1.00  0.00    +0.000 C 
+ATOM      3 C8   WDG A1001      26.881   3.082  -0.345  1.00  0.00    +0.000 C 
+ATOM      4 C9   WDG A1001      28.418   4.570  -1.694  1.00  0.00    +0.000 C 
+ATOM      5 C10  WDG A1001      28.800   2.102  -1.450  1.00  0.00    +0.000 C 
+ATOM      6 C11  WDG A1001      30.282   0.664  -2.171  1.00  0.00    +0.000 C 
+ATOM      7 C16  WDG A1001      27.264   0.614  -0.118  1.00  0.00    +0.000 C 
+ATOM      8 N17  WDG A1001      26.507   1.785   0.171  1.00  0.00    +0.000 N 
+ATOM      9 N18  WDG A1001      28.050   3.223  -1.156  1.00  0.00    +0.000 N 
+ATOM     10 N19  WDG A1001      29.957   1.992  -2.215  1.00  0.00    +0.000 NA
+ATOM     11 N20  WDG A1001      29.372  -0.053  -1.416  1.00  0.00    +0.000 NA
+ATOM     12 O23  WDG A1001      26.919  -0.470   0.330  1.00  0.00    +0.000 OA
+ATOM     13 O24  WDG A1001      26.214   4.077  -0.088  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   6  14
+ATOM     14 S25  WDG A1001      31.687  -0.074  -2.966  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C1   WDG A1001      31.116  -1.146  -4.413  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C12  WDG A1001      31.126  -0.477  -5.821  1.00  0.00    +0.000 C 
+BRANCH  16  17
+ATOM     17 N2   WDG A1001      30.152  -1.105  -6.856  1.00  0.00    +0.000 NA
+ATOM     18 C3   WDG A1001      28.741  -0.946  -6.461  1.00  0.00    +0.000 C 
+ATOM     19 C4   WDG A1001      27.942  -3.140  -7.387  1.00  0.00    +0.000 C 
+ATOM     20 C5   WDG A1001      30.446  -2.581  -6.949  1.00  0.00    +0.000 C 
+ATOM     21 C13  WDG A1001      27.703  -1.642  -7.343  1.00  0.00    +0.000 C 
+ATOM     22 C15  WDG A1001      29.396  -3.502  -7.627  1.00  0.00    +0.000 C 
+BRANCH  19  23
+ATOM     23 C14  WDG A1001      27.028  -3.772  -8.526  1.00  0.00    +0.000 C 
+ATOM     24 O22  WDG A1001      27.383  -4.869  -9.017  1.00  0.00    +0.000 OA
+BRANCH  23  25
+ATOM     25 O21  WDG A1001      26.016  -3.118  -8.867  1.00  0.00    +0.000 OA
+ATOM     26  H   WDG A1001      25.164  -3.401  -8.599  1.00  0.00    +0.000 HD
+ENDBRANCH  23  25
+ENDBRANCH  19  23
+ENDBRANCH  16  17
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   6  14
+TORSDOF 6
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -8.154      1.092      2.184
+REMARK INTER + INTRA:         -11.122
+REMARK INTER:                 -10.788
+REMARK INTRA:                  -0.334
+REMARK UNBOUND:                -0.347
+REMARK  Name = structures/xdock/7KG6_WDG.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C12_12
+REMARK    2  A    between atoms: C1_1  and  S25_25
+REMARK    3  A    between atoms: N2_2  and  C12_12
+REMARK    4  A    between atoms: C4_4  and  C14_14
+REMARK    5  A    between atoms: C7_7  and  N17_17
+REMARK    6  A    between atoms: C9_9  and  N18_18
+REMARK    7  A    between atoms: C11_11  and  S25_25
+REMARK    8  A    between atoms: C14_14  and  O21_21
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C6   WDG A1001      28.833   2.097  -1.594  1.00  0.00    +0.000 C 
+ATOM      2 C7   WDG A1001      26.104   4.371  -0.180  1.00  0.00    +0.000 C 
+ATOM      3 C8   WDG A1001      26.672   1.903   0.146  1.00  0.00    +0.000 C 
+ATOM      4 C9   WDG A1001      27.155  -0.545   0.559  1.00  0.00    +0.000 C 
+ATOM      5 C10  WDG A1001      28.547   0.865  -0.981  1.00  0.00    +0.000 C 
+ATOM      6 C11  WDG A1001      30.305   0.544  -2.242  1.00  0.00    +0.000 C 
+ATOM      7 C16  WDG A1001      28.077   3.306  -1.386  1.00  0.00    +0.000 C 
+ATOM      8 N17  WDG A1001      26.976   3.162  -0.495  1.00  0.00    +0.000 N 
+ATOM      9 N18  WDG A1001      27.474   0.749  -0.121  1.00  0.00    +0.000 N 
+ATOM     10 N19  WDG A1001      29.463  -0.105  -1.382  1.00  0.00    +0.000 NA
+ATOM     11 N20  WDG A1001      29.953   1.873  -2.387  1.00  0.00    +0.000 NA
+ATOM     12 O23  WDG A1001      28.311   4.386  -1.909  1.00  0.00    +0.000 OA
+ATOM     13 O24  WDG A1001      25.723   1.801   0.912  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   6  14
+ATOM     14 S25  WDG A1001      31.679  -0.200  -3.085  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C1   WDG A1001      31.056  -1.239  -4.535  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C12  WDG A1001      30.893  -0.503  -5.898  1.00  0.00    +0.000 C 
+BRANCH  16  17
+ATOM     17 N2   WDG A1001      30.057  -1.265  -6.964  1.00  0.00    +0.000 NA
+ATOM     18 C3   WDG A1001      28.614  -1.232  -6.668  1.00  0.00    +0.000 C 
+ATOM     19 C4   WDG A1001      28.096  -3.529  -7.540  1.00  0.00    +0.000 C 
+ATOM     20 C5   WDG A1001      30.498  -2.708  -6.970  1.00  0.00    +0.000 C 
+ATOM     21 C13  WDG A1001      27.711  -2.062  -7.581  1.00  0.00    +0.000 C 
+ATOM     22 C15  WDG A1001      29.591  -3.755  -7.670  1.00  0.00    +0.000 C 
+BRANCH  19  23
+ATOM     23 C14  WDG A1001      27.327  -4.295  -8.705  1.00  0.00    +0.000 C 
+ATOM     24 O22  WDG A1001      27.968  -4.567  -9.746  1.00  0.00    +0.000 OA
+BRANCH  23  25
+ATOM     25 O21  WDG A1001      26.121  -4.562  -8.505  1.00  0.00    +0.000 OA
+ATOM     26  H   WDG A1001      25.494  -3.869  -8.424  1.00  0.00    +0.000 HD
+ENDBRANCH  23  25
+ENDBRANCH  19  23
+ENDBRANCH  16  17
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   6  14
+TORSDOF 6
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -8.102      7.117     10.031
+REMARK INTER + INTRA:         -11.054
+REMARK INTER:                 -10.836
+REMARK INTRA:                  -0.217
+REMARK UNBOUND:                -0.347
+REMARK  Name = structures/xdock/7KG6_WDG.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C12_12
+REMARK    2  A    between atoms: C1_1  and  S25_25
+REMARK    3  A    between atoms: N2_2  and  C12_12
+REMARK    4  A    between atoms: C4_4  and  C14_14
+REMARK    5  A    between atoms: C7_7  and  N17_17
+REMARK    6  A    between atoms: C9_9  and  N18_18
+REMARK    7  A    between atoms: C11_11  and  S25_25
+REMARK    8  A    between atoms: C14_14  and  O21_21
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C6   WDG A1001      33.724   6.702  -1.369  1.00  0.00    +0.000 C 
+ATOM      2 C7   WDG A1001      36.186   9.626  -1.440  1.00  0.00    +0.000 C 
+ATOM      3 C8   WDG A1001      36.323   7.200  -2.224  1.00  0.00    +0.000 C 
+ATOM      4 C9   WDG A1001      36.562   4.823  -3.056  1.00  0.00    +0.000 C 
+ATOM      5 C10  WDG A1001      34.463   5.670  -1.972  1.00  0.00    +0.000 C 
+ATOM      6 C11  WDG A1001      32.506   4.830  -1.473  1.00  0.00    +0.000 C 
+ATOM      7 C16  WDG A1001      34.216   8.039  -1.154  1.00  0.00    +0.000 C 
+ATOM      8 N17  WDG A1001      35.552   8.250  -1.598  1.00  0.00    +0.000 N 
+ATOM      9 N18  WDG A1001      35.757   5.898  -2.395  1.00  0.00    +0.000 N 
+ATOM     10 N19  WDG A1001      33.707   4.503  -2.039  1.00  0.00    +0.000 NA
+ATOM     11 N20  WDG A1001      32.484   6.150  -1.063  1.00  0.00    +0.000 NA
+ATOM     12 O23  WDG A1001      33.588   8.949  -0.632  1.00  0.00    +0.000 OA
+ATOM     13 O24  WDG A1001      37.469   7.402  -2.604  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   6  14
+ATOM     14 S25  WDG A1001      31.134   3.722  -1.271  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C1   WDG A1001      29.734   4.596  -0.351  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C12  WDG A1001      28.363   4.678  -1.087  1.00  0.00    +0.000 C 
+BRANCH  16  17
+ATOM     17 N2   WDG A1001      27.116   4.677  -0.161  1.00  0.00    +0.000 NA
+ATOM     18 C3   WDG A1001      26.364   3.412  -0.240  1.00  0.00    +0.000 C 
+ATOM     19 C4   WDG A1001      24.082   4.422   0.049  1.00  0.00    +0.000 C 
+ATOM     20 C5   WDG A1001      26.198   5.791  -0.600  1.00  0.00    +0.000 C 
+ATOM     21 C13  WDG A1001      25.044   3.353   0.532  1.00  0.00    +0.000 C 
+ATOM     22 C15  WDG A1001      24.733   5.787  -0.089  1.00  0.00    +0.000 C 
+BRANCH  19  23
+ATOM     23 C14  WDG A1001      22.856   4.504   1.060  1.00  0.00    +0.000 C 
+ATOM     24 O22  WDG A1001      22.935   5.316   2.010  1.00  0.00    +0.000 OA
+BRANCH  23  25
+ATOM     25 O21  WDG A1001      21.892   3.734   0.842  1.00  0.00    +0.000 OA
+ATOM     26  H   WDG A1001      21.812   2.936   1.326  1.00  0.00    +0.000 HD
+ENDBRANCH  23  25
+ENDBRANCH  19  23
+ENDBRANCH  16  17
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   6  14
+TORSDOF 6
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -8.028      1.806      3.159
+REMARK INTER + INTRA:         -10.955
+REMARK INTER:                 -10.665
+REMARK INTRA:                  -0.290
+REMARK UNBOUND:                -0.347
+REMARK  Name = structures/xdock/7KG6_WDG.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C12_12
+REMARK    2  A    between atoms: C1_1  and  S25_25
+REMARK    3  A    between atoms: N2_2  and  C12_12
+REMARK    4  A    between atoms: C4_4  and  C14_14
+REMARK    5  A    between atoms: C7_7  and  N17_17
+REMARK    6  A    between atoms: C9_9  and  N18_18
+REMARK    7  A    between atoms: C11_11  and  S25_25
+REMARK    8  A    between atoms: C14_14  and  O21_21
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C6   WDG A1001      27.655   4.023  -0.644  1.00  0.00    +0.000 C 
+ATOM      2 C7   WDG A1001      24.605   6.155   0.235  1.00  0.00    +0.000 C 
+ATOM      3 C8   WDG A1001      25.161   3.680   0.536  1.00  0.00    +0.000 C 
+ATOM      4 C9   WDG A1001      25.614   1.220   0.905  1.00  0.00    +0.000 C 
+ATOM      5 C10  WDG A1001      27.276   2.749  -0.188  1.00  0.00    +0.000 C 
+ATOM      6 C11  WDG A1001      29.285   2.541  -1.027  1.00  0.00    +0.000 C 
+ATOM      7 C16  WDG A1001      26.834   5.204  -0.545  1.00  0.00    +0.000 C 
+ATOM      8 N17  WDG A1001      25.563   4.983   0.058  1.00  0.00    +0.000 N 
+ATOM      9 N18  WDG A1001      26.038   2.560   0.394  1.00  0.00    +0.000 N 
+ATOM     10 N19  WDG A1001      28.289   1.824  -0.424  1.00  0.00    +0.000 NA
+ATOM     11 N20  WDG A1001      28.934   3.871  -1.170  1.00  0.00    +0.000 NA
+ATOM     12 O23  WDG A1001      27.148   6.319  -0.935  1.00  0.00    +0.000 OA
+ATOM     13 O24  WDG A1001      24.065   3.513   1.056  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   6  14
+ATOM     14 S25  WDG A1001      30.838   1.877  -1.573  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C1   WDG A1001      30.560   0.215  -2.428  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C12  WDG A1001      30.808   0.174  -3.965  1.00  0.00    +0.000 C 
+BRANCH  16  17
+ATOM     17 N2   WDG A1001      29.987  -0.894  -4.738  1.00  0.00    +0.000 NA
+ATOM     18 C3   WDG A1001      30.513  -1.127  -6.094  1.00  0.00    +0.000 C 
+ATOM     19 C4   WDG A1001      28.291  -1.540  -7.191  1.00  0.00    +0.000 C 
+ATOM     20 C5   WDG A1001      28.567  -0.399  -4.868  1.00  0.00    +0.000 C 
+ATOM     21 C13  WDG A1001      29.701  -2.064  -6.990  1.00  0.00    +0.000 C 
+ATOM     22 C15  WDG A1001      27.635  -1.091  -5.898  1.00  0.00    +0.000 C 
+BRANCH  19  23
+ATOM     23 C14  WDG A1001      27.414  -2.675  -7.881  1.00  0.00    +0.000 C 
+ATOM     24 O22  WDG A1001      27.502  -3.838  -7.425  1.00  0.00    +0.000 OA
+BRANCH  23  25
+ATOM     25 O21  WDG A1001      26.700  -2.327  -8.849  1.00  0.00    +0.000 OA
+ATOM     26  H   WDG A1001      27.092  -2.159  -9.684  1.00  0.00    +0.000 HD
+ENDBRANCH  23  25
+ENDBRANCH  19  23
+ENDBRANCH  16  17
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   6  14
+TORSDOF 6
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -8.014      2.073      3.102
+REMARK INTER + INTRA:         -10.937
+REMARK INTER:                 -10.538
+REMARK INTRA:                  -0.399
+REMARK UNBOUND:                -0.347
+REMARK  Name = structures/xdock/7KG6_WDG.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C12_12
+REMARK    2  A    between atoms: C1_1  and  S25_25
+REMARK    3  A    between atoms: N2_2  and  C12_12
+REMARK    4  A    between atoms: C4_4  and  C14_14
+REMARK    5  A    between atoms: C7_7  and  N17_17
+REMARK    6  A    between atoms: C9_9  and  N18_18
+REMARK    7  A    between atoms: C11_11  and  S25_25
+REMARK    8  A    between atoms: C14_14  and  O21_21
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C6   WDG A1001      25.885   2.411   0.441  1.00  0.00    +0.000 C 
+ATOM      2 C7   WDG A1001      23.048   4.834   1.275  1.00  0.00    +0.000 C 
+ATOM      3 C8   WDG A1001      25.394   5.144   0.315  1.00  0.00    +0.000 C 
+ATOM      4 C9   WDG A1001      27.689   5.566  -0.661  1.00  0.00    +0.000 C 
+ATOM      5 C10  WDG A1001      26.880   3.269  -0.057  1.00  0.00    +0.000 C 
+ATOM      6 C11  WDG A1001      27.700   1.243  -0.148  1.00  0.00    +0.000 C 
+ATOM      7 C16  WDG A1001      24.591   2.843   0.903  1.00  0.00    +0.000 C 
+ATOM      8 N17  WDG A1001      24.383   4.249   0.829  1.00  0.00    +0.000 N 
+ATOM      9 N18  WDG A1001      26.656   4.630  -0.120  1.00  0.00    +0.000 N 
+ATOM     10 N19  WDG A1001      28.011   2.546  -0.426  1.00  0.00    +0.000 NA
+ATOM     11 N20  WDG A1001      26.424   1.129   0.372  1.00  0.00    +0.000 NA
+ATOM     12 O23  WDG A1001      23.714   2.111   1.338  1.00  0.00    +0.000 OA
+ATOM     13 O24  WDG A1001      25.194   6.351   0.255  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   6  14
+ATOM     14 S25  WDG A1001      28.777  -0.144  -0.405  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C1   WDG A1001      30.287   0.392  -1.406  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C12  WDG A1001      30.027   0.818  -2.882  1.00  0.00    +0.000 C 
+BRANCH  16  17
+ATOM     17 N2   WDG A1001      29.553  -0.322  -3.824  1.00  0.00    +0.000 NA
+ATOM     18 C3   WDG A1001      30.387  -0.428  -5.034  1.00  0.00    +0.000 C 
+ATOM     19 C4   WDG A1001      28.535  -1.098  -6.594  1.00  0.00    +0.000 C 
+ATOM     20 C5   WDG A1001      28.139  -0.022  -4.258  1.00  0.00    +0.000 C 
+ATOM     21 C13  WDG A1001      29.929  -1.432  -6.093  1.00  0.00    +0.000 C 
+ATOM     22 C15  WDG A1001      27.559  -0.795  -5.472  1.00  0.00    +0.000 C 
+BRANCH  19  23
+ATOM     23 C14  WDG A1001      27.999  -2.316  -7.468  1.00  0.00    +0.000 C 
+ATOM     24 O22  WDG A1001      28.486  -3.449  -7.251  1.00  0.00    +0.000 OA
+BRANCH  23  25
+ATOM     25 O21  WDG A1001      27.129  -2.052  -8.329  1.00  0.00    +0.000 OA
+ATOM     26  H   WDG A1001      26.252  -1.855  -8.064  1.00  0.00    +0.000 HD
+ENDBRANCH  23  25
+ENDBRANCH  19  23
+ENDBRANCH  16  17
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   6  14
+TORSDOF 6
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -7.949      3.045      4.576
+REMARK INTER + INTRA:         -10.852
+REMARK INTER:                 -10.283
+REMARK INTRA:                  -0.569
+REMARK UNBOUND:                -0.347
+REMARK  Name = structures/xdock/7KG6_WDG.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C12_12
+REMARK    2  A    between atoms: C1_1  and  S25_25
+REMARK    3  A    between atoms: N2_2  and  C12_12
+REMARK    4  A    between atoms: C4_4  and  C14_14
+REMARK    5  A    between atoms: C7_7  and  N17_17
+REMARK    6  A    between atoms: C9_9  and  N18_18
+REMARK    7  A    between atoms: C11_11  and  S25_25
+REMARK    8  A    between atoms: C14_14  and  O21_21
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C6   WDG A1001      27.937   4.518  -0.230  1.00  0.00    +0.000 C 
+ATOM      2 C7   WDG A1001      24.527   6.245  -0.298  1.00  0.00    +0.000 C 
+ATOM      3 C8   WDG A1001      25.267   3.843   0.153  1.00  0.00    +0.000 C 
+ATOM      4 C9   WDG A1001      25.889   1.440   0.638  1.00  0.00    +0.000 C 
+ATOM      5 C10  WDG A1001      27.599   3.193   0.092  1.00  0.00    +0.000 C 
+ATOM      6 C11  WDG A1001      29.776   3.252  -0.111  1.00  0.00    +0.000 C 
+ATOM      7 C16  WDG A1001      26.986   5.590  -0.379  1.00  0.00    +0.000 C 
+ATOM      8 N17  WDG A1001      25.630   5.201  -0.182  1.00  0.00    +0.000 N 
+ATOM      9 N18  WDG A1001      26.278   2.839   0.278  1.00  0.00    +0.000 N 
+ATOM     10 N19  WDG A1001      28.742   2.401   0.168  1.00  0.00    +0.000 NA
+ATOM     11 N20  WDG A1001      29.323   4.536  -0.350  1.00  0.00    +0.000 NA
+ATOM     12 O23  WDG A1001      27.262   6.748  -0.657  1.00  0.00    +0.000 OA
+ATOM     13 O24  WDG A1001      24.096   3.529   0.323  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   6  14
+ATOM     14 S25  WDG A1001      31.490   2.794  -0.169  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C1   WDG A1001      31.715   1.057   0.539  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C12  WDG A1001      31.237  -0.126  -0.356  1.00  0.00    +0.000 C 
+BRANCH  16  17
+ATOM     17 N2   WDG A1001      31.264   0.150  -1.884  1.00  0.00    +0.000 NA
+ATOM     18 C3   WDG A1001      29.927   0.037  -2.494  1.00  0.00    +0.000 C 
+ATOM     19 C4   WDG A1001      30.698  -0.911  -4.688  1.00  0.00    +0.000 C 
+ATOM     20 C5   WDG A1001      32.160  -0.873  -2.536  1.00  0.00    +0.000 C 
+ATOM     21 C13  WDG A1001      29.858   0.160  -4.017  1.00  0.00    +0.000 C 
+ATOM     22 C15  WDG A1001      32.080  -1.053  -4.075  1.00  0.00    +0.000 C 
+BRANCH  19  23
+ATOM     23 C14  WDG A1001      30.823  -0.570  -6.238  1.00  0.00    +0.000 C 
+ATOM     24 O22  WDG A1001      30.198  -1.293  -7.047  1.00  0.00    +0.000 OA
+BRANCH  23  25
+ATOM     25 O21  WDG A1001      31.555   0.399  -6.545  1.00  0.00    +0.000 OA
+ATOM     26  H   WDG A1001      31.254   1.276  -6.407  1.00  0.00    +0.000 HD
+ENDBRANCH  23  25
+ENDBRANCH  19  23
+ENDBRANCH  16  17
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   6  14
+TORSDOF 6
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -7.891      5.415      7.300
+REMARK INTER + INTRA:         -10.775
+REMARK INTER:                 -10.301
+REMARK INTRA:                  -0.474
+REMARK UNBOUND:                -0.347
+REMARK  Name = structures/xdock/7KG6_WDG.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C12_12
+REMARK    2  A    between atoms: C1_1  and  S25_25
+REMARK    3  A    between atoms: N2_2  and  C12_12
+REMARK    4  A    between atoms: C4_4  and  C14_14
+REMARK    5  A    between atoms: C7_7  and  N17_17
+REMARK    6  A    between atoms: C9_9  and  N18_18
+REMARK    7  A    between atoms: C11_11  and  S25_25
+REMARK    8  A    between atoms: C14_14  and  O21_21
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C6   WDG A1001      25.881   3.209   0.198  1.00  0.00    +0.000 C 
+ATOM      2 C7   WDG A1001      24.165   6.615  -0.079  1.00  0.00    +0.000 C 
+ATOM      3 C8   WDG A1001      23.483   4.388   0.969  1.00  0.00    +0.000 C 
+ATOM      4 C9   WDG A1001      22.714   2.238   2.058  1.00  0.00    +0.000 C 
+ATOM      5 C10  WDG A1001      24.934   2.449   0.906  1.00  0.00    +0.000 C 
+ATOM      6 C11  WDG A1001      26.634   1.129   0.521  1.00  0.00    +0.000 C 
+ATOM      7 C16  WDG A1001      25.708   4.592  -0.169  1.00  0.00    +0.000 C 
+ATOM      8 N17  WDG A1001      24.465   5.155   0.237  1.00  0.00    +0.000 N 
+ATOM      9 N18  WDG A1001      23.735   3.017   1.289  1.00  0.00    +0.000 N 
+ATOM     10 N19  WDG A1001      25.399   1.153   1.109  1.00  0.00    +0.000 NA
+ATOM     11 N20  WDG A1001      26.954   2.354  -0.033  1.00  0.00    +0.000 NA
+ATOM     12 O23  WDG A1001      26.521   5.268  -0.783  1.00  0.00    +0.000 OA
+ATOM     13 O24  WDG A1001      22.421   4.892   1.313  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   6  14
+ATOM     14 S25  WDG A1001      27.708  -0.283   0.456  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C1   WDG A1001      29.432   0.249  -0.106  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C12  WDG A1001      29.636   0.436  -1.640  1.00  0.00    +0.000 C 
+BRANCH  16  17
+ATOM     17 N2   WDG A1001      30.606   1.582  -2.041  1.00  0.00    +0.000 NA
+ATOM     18 C3   WDG A1001      31.827   1.592  -1.217  1.00  0.00    +0.000 C 
+ATOM     19 C4   WDG A1001      32.111   4.087  -1.166  1.00  0.00    +0.000 C 
+ATOM     20 C5   WDG A1001      29.896   2.897  -1.837  1.00  0.00    +0.000 C 
+ATOM     21 C13  WDG A1001      32.791   2.759  -1.440  1.00  0.00    +0.000 C 
+ATOM     22 C15  WDG A1001      30.742   4.198  -1.813  1.00  0.00    +0.000 C 
+BRANCH  19  23
+ATOM     23 C14  WDG A1001      33.053   5.262  -1.681  1.00  0.00    +0.000 C 
+ATOM     24 O22  WDG A1001      34.058   4.950  -2.359  1.00  0.00    +0.000 OA
+BRANCH  23  25
+ATOM     25 O21  WDG A1001      32.729   6.428  -1.358  1.00  0.00    +0.000 OA
+ATOM     26  H   WDG A1001      31.995   6.841  -1.768  1.00  0.00    +0.000 HD
+ENDBRANCH  23  25
+ENDBRANCH  19  23
+ENDBRANCH  16  17
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   6  14
+TORSDOF 6
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -7.865      7.045     10.063
+REMARK INTER + INTRA:         -10.741
+REMARK INTER:                 -10.538
+REMARK INTRA:                  -0.203
+REMARK UNBOUND:                -0.347
+REMARK  Name = structures/xdock/7KG6_WDG.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C12_12
+REMARK    2  A    between atoms: C1_1  and  S25_25
+REMARK    3  A    between atoms: N2_2  and  C12_12
+REMARK    4  A    between atoms: C4_4  and  C14_14
+REMARK    5  A    between atoms: C7_7  and  N17_17
+REMARK    6  A    between atoms: C9_9  and  N18_18
+REMARK    7  A    between atoms: C11_11  and  S25_25
+REMARK    8  A    between atoms: C14_14  and  O21_21
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C6   WDG A1001      34.490   5.734  -2.396  1.00  0.00    +0.000 C 
+ATOM      2 C7   WDG A1001      37.534   7.516  -3.872  1.00  0.00    +0.000 C 
+ATOM      3 C8   WDG A1001      35.708   8.228  -2.235  1.00  0.00    +0.000 C 
+ATOM      4 C9   WDG A1001      33.964   9.033  -0.590  1.00  0.00    +0.000 C 
+ATOM      5 C10  WDG A1001      33.934   6.722  -1.565  1.00  0.00    +0.000 C 
+ATOM      6 C11  WDG A1001      32.660   4.954  -1.375  1.00  0.00    +0.000 C 
+ATOM      7 C16  WDG A1001      35.677   5.912  -3.194  1.00  0.00    +0.000 C 
+ATOM      8 N17  WDG A1001      36.265   7.204  -3.088  1.00  0.00    +0.000 N 
+ATOM      9 N18  WDG A1001      34.522   7.968  -1.479  1.00  0.00    +0.000 N 
+ATOM     10 N19  WDG A1001      32.795   6.240  -0.926  1.00  0.00    +0.000 NA
+ATOM     11 N20  WDG A1001      33.669   4.619  -2.258  1.00  0.00    +0.000 NA
+ATOM     12 O23  WDG A1001      36.174   5.064  -3.921  1.00  0.00    +0.000 OA
+ATOM     13 O24  WDG A1001      36.232   9.332  -2.154  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   6  14
+ATOM     14 S25  WDG A1001      31.363   3.837  -0.904  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C1   WDG A1001      29.777   4.804  -0.561  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C12  WDG A1001      28.450   4.164  -1.068  1.00  0.00    +0.000 C 
+BRANCH  16  17
+ATOM     17 N2   WDG A1001      27.224   4.358  -0.134  1.00  0.00    +0.000 NA
+ATOM     18 C3   WDG A1001      26.255   3.254  -0.249  1.00  0.00    +0.000 C 
+ATOM     19 C4   WDG A1001      24.195   4.650   0.088  1.00  0.00    +0.000 C 
+ATOM     20 C5   WDG A1001      26.523   5.635  -0.530  1.00  0.00    +0.000 C 
+ATOM     21 C13  WDG A1001      24.948   3.409   0.530  1.00  0.00    +0.000 C 
+ATOM     22 C15  WDG A1001      25.082   5.879  -0.009  1.00  0.00    +0.000 C 
+BRANCH  19  23
+ATOM     23 C14  WDG A1001      23.004   4.919   1.110  1.00  0.00    +0.000 C 
+ATOM     24 O22  WDG A1001      22.139   4.024   1.247  1.00  0.00    +0.000 OA
+BRANCH  23  25
+ATOM     25 O21  WDG A1001      23.007   6.022   1.703  1.00  0.00    +0.000 OA
+ATOM     26  H   WDG A1001      22.254   6.579   1.659  1.00  0.00    +0.000 HD
+ENDBRANCH  23  25
+ENDBRANCH  19  23
+ENDBRANCH  16  17
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   6  14
+TORSDOF 6
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:    -7.513      6.419      8.718
+REMARK INTER + INTRA:         -10.275
+REMARK INTER:                  -9.817
+REMARK INTRA:                  -0.458
+REMARK UNBOUND:                -0.347
+REMARK  Name = structures/xdock/7KG6_WDG.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C12_12
+REMARK    2  A    between atoms: C1_1  and  S25_25
+REMARK    3  A    between atoms: N2_2  and  C12_12
+REMARK    4  A    between atoms: C4_4  and  C14_14
+REMARK    5  A    between atoms: C7_7  and  N17_17
+REMARK    6  A    between atoms: C9_9  and  N18_18
+REMARK    7  A    between atoms: C11_11  and  S25_25
+REMARK    8  A    between atoms: C14_14  and  O21_21
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C6   WDG A1001      31.905   3.423   1.361  1.00  0.00    +0.000 C 
+ATOM      2 C7   WDG A1001      33.976   4.616   4.346  1.00  0.00    +0.000 C 
+ATOM      3 C8   WDG A1001      34.176   4.960   1.823  1.00  0.00    +0.000 C 
+ATOM      4 C9   WDG A1001      34.459   5.384  -0.654  1.00  0.00    +0.000 C 
+ATOM      5 C10  WDG A1001      32.588   3.992   0.272  1.00  0.00    +0.000 C 
+ATOM      6 C11  WDG A1001      30.892   2.889  -0.559  1.00  0.00    +0.000 C 
+ATOM      7 C16  WDG A1001      32.295   3.578   2.740  1.00  0.00    +0.000 C 
+ATOM      8 N17  WDG A1001      33.466   4.365   2.932  1.00  0.00    +0.000 N 
+ATOM      9 N18  WDG A1001      33.721   4.751   0.483  1.00  0.00    +0.000 N 
+ATOM     10 N19  WDG A1001      31.959   3.662  -0.925  1.00  0.00    +0.000 NA
+ATOM     11 N20  WDG A1001      30.831   2.731   0.813  1.00  0.00    +0.000 NA
+ATOM     12 O23  WDG A1001      31.713   3.092   3.699  1.00  0.00    +0.000 OA
+ATOM     13 O24  WDG A1001      35.179   5.637   2.010  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   6  14
+ATOM     14 S25  WDG A1001      29.722   2.163  -1.680  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C1   WDG A1001      28.351   3.404  -2.068  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C12  WDG A1001      28.234   4.632  -1.116  1.00  0.00    +0.000 C 
+BRANCH  16  17
+ATOM     17 N2   WDG A1001      27.011   4.611  -0.159  1.00  0.00    +0.000 NA
+ATOM     18 C3   WDG A1001      26.265   3.343  -0.236  1.00  0.00    +0.000 C 
+ATOM     19 C4   WDG A1001      23.985   4.335   0.123  1.00  0.00    +0.000 C 
+ATOM     20 C5   WDG A1001      26.076   5.725  -0.561  1.00  0.00    +0.000 C 
+ATOM     21 C13  WDG A1001      24.966   3.265   0.568  1.00  0.00    +0.000 C 
+ATOM     22 C15  WDG A1001      24.624   5.705  -0.014  1.00  0.00    +0.000 C 
+BRANCH  19  23
+ATOM     23 C14  WDG A1001      22.784   4.396   1.165  1.00  0.00    +0.000 C 
+ATOM     24 O22  WDG A1001      22.882   5.199   2.122  1.00  0.00    +0.000 OA
+BRANCH  23  25
+ATOM     25 O21  WDG A1001      21.822   3.621   0.964  1.00  0.00    +0.000 OA
+ATOM     26  H   WDG A1001      21.981   2.729   0.722  1.00  0.00    +0.000 HD
+ENDBRANCH  23  25
+ENDBRANCH  19  23
+ENDBRANCH  16  17
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   6  14
+TORSDOF 6
+ENDMDL

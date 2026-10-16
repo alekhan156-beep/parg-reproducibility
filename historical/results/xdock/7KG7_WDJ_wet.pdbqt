@@ -1,0 +1,477 @@
+MODEL 1
+REMARK VINA RESULT:    -7.921      0.000      0.000
+REMARK INTER + INTRA:         -10.299
+REMARK INTER:                  -9.773
+REMARK INTRA:                  -0.526
+REMARK UNBOUND:                -0.526
+REMARK  Name = structures/xdock/7KG7_WDJ.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C11_11
+REMARK    2  A    between atoms: C2_2  and  N17_17
+REMARK    3  A    between atoms: C7_7  and  N14_14
+REMARK    4  A    between atoms: C8_8  and  N15_15
+REMARK    5  A    between atoms: C10_10  and  S23_23
+REMARK    6  A    between atoms: C11_11  and  S23_23
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C1   WDJ A1001      23.558   4.465   0.953  1.00  0.00    +0.000 C 
+ATOM      2 C5   WDJ A1001      25.964   3.304   0.164  1.00  0.00    +0.000 C 
+ATOM      3 C6   WDJ A1001      25.780   4.699  -0.167  1.00  0.00    +0.000 C 
+ATOM      4 C7   WDJ A1001      24.173   6.625   0.015  1.00  0.00    +0.000 C 
+ATOM      5 C8   WDJ A1001      22.782   2.334   1.963  1.00  0.00    +0.000 C 
+ATOM      6 C9   WDJ A1001      25.013   2.523   0.849  1.00  0.00    +0.000 C 
+ATOM      7 C10  WDJ A1001      26.703   1.219   0.439  1.00  0.00    +0.000 C 
+ATOM      8 N14  WDJ A1001      24.534   5.226   0.265  1.00  0.00    +0.000 N 
+ATOM      9 N15  WDJ A1001      23.816   3.089   1.244  1.00  0.00    +0.000 N 
+ATOM     10 N16  WDJ A1001      25.471   1.218   1.026  1.00  0.00    +0.000 NA
+ATOM     11 N18  WDJ A1001      27.031   2.457  -0.087  1.00  0.00    +0.000 NA
+ATOM     12 O21  WDJ A1001      26.589   5.400  -0.760  1.00  0.00    +0.000 OA
+ATOM     13 O22  WDJ A1001      22.497   4.969   1.303  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   7  14
+ATOM     14 S23  WDJ A1001      27.824  -0.112   0.310  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C11  WDJ A1001      28.937   0.072  -1.167  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C2   WDJ A1001      30.348   0.443  -0.595  1.00  0.00    +0.000 C 
+BRANCH  16  21
+ATOM     17 C3   WDJ A1001      30.083   2.768  -1.838  1.00  0.00    +0.000 C 
+ATOM     18 C4   WDJ A1001      31.125   2.598   0.450  1.00  0.00    +0.000 C 
+ATOM     19 C12  WDJ A1001      30.624   4.209  -1.997  1.00  0.00    +0.000 C 
+ATOM     20 C13  WDJ A1001      31.900   3.925   0.345  1.00  0.00    +0.000 C 
+ATOM     21 N17  WDJ A1001      30.810   1.919  -0.836  1.00  0.00    +0.000 N 
+ATOM     22 O19  WDJ A1001      33.115   3.791  -1.868  1.00  0.00    +0.000 OA
+ATOM     23 O20  WDJ A1001      32.245   5.932  -1.097  1.00  0.00    +0.000 OA
+ATOM     24 S24  WDJ A1001      32.098   4.532  -1.215  1.00  0.00    +0.000 S 
+ENDBRANCH  16  21
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   7  14
+TORSDOF 4
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -7.507      1.209      2.280
+REMARK INTER + INTRA:          -9.789
+REMARK INTER:                  -9.359
+REMARK INTRA:                  -0.430
+REMARK UNBOUND:                -0.526
+REMARK  Name = structures/xdock/7KG7_WDJ.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C11_11
+REMARK    2  A    between atoms: C2_2  and  N17_17
+REMARK    3  A    between atoms: C7_7  and  N14_14
+REMARK    4  A    between atoms: C8_8  and  N15_15
+REMARK    5  A    between atoms: C10_10  and  S23_23
+REMARK    6  A    between atoms: C11_11  and  S23_23
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C1   WDJ A1001      25.058   5.115   0.382  1.00  0.00    +0.000 C 
+ATOM      2 C5   WDJ A1001      25.638   2.398   0.587  1.00  0.00    +0.000 C 
+ATOM      3 C6   WDJ A1001      24.322   2.814   1.019  1.00  0.00    +0.000 C 
+ATOM      4 C7   WDJ A1001      22.815   4.810   1.275  1.00  0.00    +0.000 C 
+ATOM      5 C8   WDJ A1001      27.310   5.595  -0.547  1.00  0.00    +0.000 C 
+ATOM      6 C9   WDJ A1001      26.616   3.276   0.081  1.00  0.00    +0.000 C 
+ATOM      7 C10  WDJ A1001      27.498   1.290   0.060  1.00  0.00    +0.000 C 
+ATOM      8 N14  WDJ A1001      24.094   4.208   0.886  1.00  0.00    +0.000 N 
+ATOM      9 N15  WDJ A1001      26.338   4.625  -0.025  1.00  0.00    +0.000 N 
+ATOM     10 N16  WDJ A1001      27.782   2.588  -0.253  1.00  0.00    +0.000 NA
+ATOM     11 N18  WDJ A1001      26.219   1.141   0.566  1.00  0.00    +0.000 NA
+ATOM     12 O21  WDJ A1001      23.455   2.073   1.463  1.00  0.00    +0.000 OA
+ATOM     13 O22  WDJ A1001      24.810   6.311   0.289  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   7  14
+ATOM     14 S23  WDJ A1001      28.537  -0.101  -0.116  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C11  WDJ A1001      29.950   0.243  -1.272  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C2   WDJ A1001      31.090   0.854  -0.386  1.00  0.00    +0.000 C 
+BRANCH  16  21
+ATOM     17 C3   WDJ A1001      30.659   3.124  -1.684  1.00  0.00    +0.000 C 
+ATOM     18 C4   WDJ A1001      31.918   3.062   0.498  1.00  0.00    +0.000 C 
+ATOM     19 C12  WDJ A1001      31.153   4.566  -1.948  1.00  0.00    +0.000 C 
+ATOM     20 C13  WDJ A1001      32.652   4.396   0.269  1.00  0.00    +0.000 C 
+ATOM     21 N17  WDJ A1001      31.496   2.327  -0.726  1.00  0.00    +0.000 N 
+ATOM     22 O19  WDJ A1001      33.653   4.196  -2.044  1.00  0.00    +0.000 OA
+ATOM     23 O20  WDJ A1001      32.816   6.351  -1.273  1.00  0.00    +0.000 OA
+ATOM     24 S24  WDJ A1001      32.688   4.945  -1.324  1.00  0.00    +0.000 S 
+ENDBRANCH  16  21
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   7  14
+TORSDOF 4
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -7.398      2.455      3.706
+REMARK INTER + INTRA:          -9.654
+REMARK INTER:                  -9.044
+REMARK INTRA:                  -0.610
+REMARK UNBOUND:                -0.526
+REMARK  Name = structures/xdock/7KG7_WDJ.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C11_11
+REMARK    2  A    between atoms: C2_2  and  N17_17
+REMARK    3  A    between atoms: C7_7  and  N14_14
+REMARK    4  A    between atoms: C8_8  and  N15_15
+REMARK    5  A    between atoms: C10_10  and  S23_23
+REMARK    6  A    between atoms: C11_11  and  S23_23
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C1   WDJ A1001      25.347   3.823   0.137  1.00  0.00    +0.000 C 
+ATOM      2 C5   WDJ A1001      27.966   4.695  -0.235  1.00  0.00    +0.000 C 
+ATOM      3 C6   WDJ A1001      26.923   5.678  -0.425  1.00  0.00    +0.000 C 
+ATOM      4 C7   WDJ A1001      24.433   6.021  -0.368  1.00  0.00    +0.000 C 
+ATOM      5 C8   WDJ A1001      26.117   1.526   0.680  1.00  0.00    +0.000 C 
+ATOM      6 C9   WDJ A1001      27.729   3.353   0.120  1.00  0.00    +0.000 C 
+ATOM      7 C10  WDJ A1001      29.884   3.574  -0.062  1.00  0.00    +0.000 C 
+ATOM      8 N14  WDJ A1001      25.615   5.167  -0.218  1.00  0.00    +0.000 N 
+ATOM      9 N15  WDJ A1001      26.434   2.910   0.307  1.00  0.00    +0.000 N 
+ATOM     10 N16  WDJ A1001      28.927   2.647   0.232  1.00  0.00    +0.000 NA
+ATOM     11 N18  WDJ A1001      29.341   4.815  -0.346  1.00  0.00    +0.000 NA
+ATOM     12 O21  WDJ A1001      27.100   6.850  -0.733  1.00  0.00    +0.000 OA
+ATOM     13 O22  WDJ A1001      24.197   3.432   0.302  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   7  14
+ATOM     14 S23  WDJ A1001      31.613   3.345  -0.101  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C11  WDJ A1001      32.146   1.961   1.018  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C2   WDJ A1001      32.442   0.741   0.079  1.00  0.00    +0.000 C 
+BRANCH  16  21
+ATOM     17 C3   WDJ A1001      31.872   0.083  -2.423  1.00  0.00    +0.000 C 
+ATOM     18 C4   WDJ A1001      30.221  -0.265  -0.552  1.00  0.00    +0.000 C 
+ATOM     19 C12  WDJ A1001      30.755  -0.134  -3.472  1.00  0.00    +0.000 C 
+ATOM     20 C13  WDJ A1001      28.982  -0.288  -1.466  1.00  0.00    +0.000 C 
+ATOM     21 N17  WDJ A1001      31.397   0.493  -1.060  1.00  0.00    +0.000 N 
+ATOM     22 O19  WDJ A1001      29.201   1.779  -2.905  1.00  0.00    +0.000 OA
+ATOM     23 O20  WDJ A1001      28.256  -0.257  -3.853  1.00  0.00    +0.000 OA
+ATOM     24 S24  WDJ A1001      29.199   0.365  -3.004  1.00  0.00    +0.000 S 
+ENDBRANCH  16  21
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   7  14
+TORSDOF 4
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -7.064      3.336      4.567
+REMARK INTER + INTRA:          -9.241
+REMARK INTER:                  -9.003
+REMARK INTRA:                  -0.238
+REMARK UNBOUND:                -0.526
+REMARK  Name = structures/xdock/7KG7_WDJ.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C11_11
+REMARK    2  A    between atoms: C2_2  and  N17_17
+REMARK    3  A    between atoms: C7_7  and  N14_14
+REMARK    4  A    between atoms: C8_8  and  N15_15
+REMARK    5  A    between atoms: C10_10  and  S23_23
+REMARK    6  A    between atoms: C11_11  and  S23_23
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C1   WDJ A1001      24.937   5.170   0.257  1.00  0.00    +0.000 C 
+ATOM      2 C5   WDJ A1001      25.828   2.547   0.552  1.00  0.00    +0.000 C 
+ATOM      3 C6   WDJ A1001      24.452   2.808   0.911  1.00  0.00    +0.000 C 
+ATOM      4 C7   WDJ A1001      22.705   4.610   1.050  1.00  0.00    +0.000 C 
+ATOM      5 C8   WDJ A1001      27.158   5.903  -0.575  1.00  0.00    +0.000 C 
+ATOM      6 C9   WDJ A1001      26.717   3.528   0.072  1.00  0.00    +0.000 C 
+ATOM      7 C10  WDJ A1001      27.832   1.664   0.139  1.00  0.00    +0.000 C 
+ATOM      8 N14  WDJ A1001      24.065   4.162   0.735  1.00  0.00    +0.000 N 
+ATOM      9 N15  WDJ A1001      26.285   4.832  -0.078  1.00  0.00    +0.000 N 
+ATOM     10 N16  WDJ A1001      27.972   2.980  -0.190  1.00  0.00    +0.000 NA
+ATOM     11 N18  WDJ A1001      26.555   1.370   0.587  1.00  0.00    +0.000 NA
+ATOM     12 O21  WDJ A1001      23.658   1.975   1.330  1.00  0.00    +0.000 OA
+ATOM     13 O22  WDJ A1001      24.552   6.326   0.125  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   7  14
+ATOM     14 S23  WDJ A1001      29.038   0.406   0.044  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C11  WDJ A1001      30.474   0.914  -1.020  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C2   WDJ A1001      29.862   1.289  -2.413  1.00  0.00    +0.000 C 
+BRANCH  16  21
+ATOM     17 C3   WDJ A1001      31.204  -0.780  -3.382  1.00  0.00    +0.000 C 
+ATOM     18 C4   WDJ A1001      28.924  -0.154  -4.252  1.00  0.00    +0.000 C 
+ATOM     19 C12  WDJ A1001      31.434  -1.706  -4.600  1.00  0.00    +0.000 C 
+ATOM     20 C13  WDJ A1001      29.098  -0.860  -5.610  1.00  0.00    +0.000 C 
+ATOM     21 N17  WDJ A1001      30.175   0.294  -3.580  1.00  0.00    +0.000 N 
+ATOM     22 O19  WDJ A1001      31.318  -0.031  -6.491  1.00  0.00    +0.000 OA
+ATOM     23 O20  WDJ A1001      30.632  -2.329  -6.918  1.00  0.00    +0.000 OA
+ATOM     24 S24  WDJ A1001      30.685  -1.219  -6.046  1.00  0.00    +0.000 S 
+ENDBRANCH  16  21
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   7  14
+TORSDOF 4
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -7.053      2.074      3.012
+REMARK INTER + INTRA:          -9.228
+REMARK INTER:                  -8.553
+REMARK INTRA:                  -0.675
+REMARK UNBOUND:                -0.526
+REMARK  Name = structures/xdock/7KG7_WDJ.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C11_11
+REMARK    2  A    between atoms: C2_2  and  N17_17
+REMARK    3  A    between atoms: C7_7  and  N14_14
+REMARK    4  A    between atoms: C8_8  and  N15_15
+REMARK    5  A    between atoms: C10_10  and  S23_23
+REMARK    6  A    between atoms: C11_11  and  S23_23
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C1   WDJ A1001      25.082   5.254   0.432  1.00  0.00    +0.000 C 
+ATOM      2 C5   WDJ A1001      25.786   2.560   0.355  1.00  0.00    +0.000 C 
+ATOM      3 C6   WDJ A1001      24.501   2.877   0.937  1.00  0.00    +0.000 C 
+ATOM      4 C7   WDJ A1001      22.946   4.773   1.495  1.00  0.00    +0.000 C 
+ATOM      5 C8   WDJ A1001      27.216   5.912  -0.653  1.00  0.00    +0.000 C 
+ATOM      6 C9   WDJ A1001      26.676   3.521  -0.162  1.00  0.00    +0.000 C 
+ATOM      7 C10  WDJ A1001      27.631   1.586  -0.429  1.00  0.00    +0.000 C 
+ATOM      8 N14  WDJ A1001      24.207   4.265   0.943  1.00  0.00    +0.000 N 
+ATOM      9 N15  WDJ A1001      26.336   4.859  -0.129  1.00  0.00    +0.000 N 
+ATOM     10 N16  WDJ A1001      27.832   2.917  -0.657  1.00  0.00    +0.000 NA
+ATOM     11 N18  WDJ A1001      26.411   1.337   0.176  1.00  0.00    +0.000 NA
+ATOM     12 O21  WDJ A1001      23.709   2.063   1.394  1.00  0.00    +0.000 OA
+ATOM     13 O22  WDJ A1001      24.779   6.441   0.462  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   7  14
+ATOM     14 S23  WDJ A1001      28.703   0.265  -0.814  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C11  WDJ A1001      29.174   0.268  -2.611  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C2   WDJ A1001      30.678   0.707  -2.658  1.00  0.00    +0.000 C 
+BRANCH  16  21
+ATOM     17 C3   WDJ A1001      32.388   0.574  -0.639  1.00  0.00    +0.000 C 
+ATOM     18 C4   WDJ A1001      31.402   2.765  -1.399  1.00  0.00    +0.000 C 
+ATOM     19 C12  WDJ A1001      32.882   1.231   0.672  1.00  0.00    +0.000 C 
+ATOM     20 C13  WDJ A1001      31.640   3.492  -0.062  1.00  0.00    +0.000 C 
+ATOM     21 N17  WDJ A1001      31.258   1.285  -1.324  1.00  0.00    +0.000 N 
+ATOM     22 O19  WDJ A1001      30.682   1.946   1.695  1.00  0.00    +0.000 OA
+ATOM     23 O20  WDJ A1001      32.683   3.245   2.191  1.00  0.00    +0.000 OA
+ATOM     24 S24  WDJ A1001      31.918   2.497   1.269  1.00  0.00    +0.000 S 
+ENDBRANCH  16  21
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   7  14
+TORSDOF 4
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -7.047      2.787      4.261
+REMARK INTER + INTRA:          -9.220
+REMARK INTER:                  -8.950
+REMARK INTRA:                  -0.270
+REMARK UNBOUND:                -0.526
+REMARK  Name = structures/xdock/7KG7_WDJ.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C11_11
+REMARK    2  A    between atoms: C2_2  and  N17_17
+REMARK    3  A    between atoms: C7_7  and  N14_14
+REMARK    4  A    between atoms: C8_8  and  N15_15
+REMARK    5  A    between atoms: C10_10  and  S23_23
+REMARK    6  A    between atoms: C11_11  and  S23_23
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C1   WDJ A1001      23.545   4.325   0.944  1.00  0.00    +0.000 C 
+ATOM      2 C5   WDJ A1001      26.034   3.250   0.305  1.00  0.00    +0.000 C 
+ATOM      3 C6   WDJ A1001      25.081   2.354   0.920  1.00  0.00    +0.000 C 
+ATOM      4 C7   WDJ A1001      22.748   2.209   1.845  1.00  0.00    +0.000 C 
+ATOM      5 C8   WDJ A1001      24.202   6.550   0.060  1.00  0.00    +0.000 C 
+ATOM      6 C9   WDJ A1001      25.773   4.605   0.020  1.00  0.00    +0.000 C 
+ATOM      7 C10  WDJ A1001      27.808   4.216  -0.639  1.00  0.00    +0.000 C 
+ATOM      8 N14  WDJ A1001      23.835   2.966   1.217  1.00  0.00    +0.000 N 
+ATOM      9 N15  WDJ A1001      24.541   5.147   0.332  1.00  0.00    +0.000 N 
+ATOM     10 N16  WDJ A1001      26.879   5.213  -0.574  1.00  0.00    +0.000 NA
+ATOM     11 N18  WDJ A1001      27.332   3.023  -0.121  1.00  0.00    +0.000 NA
+ATOM     12 O21  WDJ A1001      25.282   1.175   1.179  1.00  0.00    +0.000 OA
+ATOM     13 O22  WDJ A1001      22.452   4.804   1.222  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   7  14
+ATOM     14 S23  WDJ A1001      29.428   4.308  -1.280  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C11  WDJ A1001      30.387   2.754  -0.941  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C2   WDJ A1001      30.342   1.924  -2.269  1.00  0.00    +0.000 C 
+BRANCH  16  21
+ATOM     17 C3   WDJ A1001      31.452  -0.095  -0.961  1.00  0.00    +0.000 C 
+ATOM     18 C4   WDJ A1001      30.726  -0.311  -3.365  1.00  0.00    +0.000 C 
+ATOM     19 C12  WDJ A1001      32.272  -1.403  -1.073  1.00  0.00    +0.000 C 
+ATOM     20 C13  WDJ A1001      31.659  -1.495  -3.682  1.00  0.00    +0.000 C 
+ATOM     21 N17  WDJ A1001      31.163   0.591  -2.264  1.00  0.00    +0.000 N 
+ATOM     22 O19  WDJ A1001      33.937  -0.761  -2.865  1.00  0.00    +0.000 OA
+ATOM     23 O20  WDJ A1001      33.276  -3.098  -2.662  1.00  0.00    +0.000 OA
+ATOM     24 S24  WDJ A1001      32.934  -1.729  -2.604  1.00  0.00    +0.000 S 
+ENDBRANCH  16  21
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   7  14
+TORSDOF 4
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -7.028      3.274      4.407
+REMARK INTER + INTRA:          -9.198
+REMARK INTER:                  -8.858
+REMARK INTRA:                  -0.340
+REMARK UNBOUND:                -0.526
+REMARK  Name = structures/xdock/7KG7_WDJ.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C11_11
+REMARK    2  A    between atoms: C2_2  and  N17_17
+REMARK    3  A    between atoms: C7_7  and  N14_14
+REMARK    4  A    between atoms: C8_8  and  N15_15
+REMARK    5  A    between atoms: C10_10  and  S23_23
+REMARK    6  A    between atoms: C11_11  and  S23_23
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C1   WDJ A1001      25.190   3.675   0.313  1.00  0.00    +0.000 C 
+ATOM      2 C5   WDJ A1001      27.794   4.508  -0.225  1.00  0.00    +0.000 C 
+ATOM      3 C6   WDJ A1001      26.756   5.507  -0.348  1.00  0.00    +0.000 C 
+ATOM      4 C7   WDJ A1001      24.279   5.887  -0.134  1.00  0.00    +0.000 C 
+ATOM      5 C8   WDJ A1001      25.959   1.366   0.807  1.00  0.00    +0.000 C 
+ATOM      6 C9   WDJ A1001      27.560   3.169   0.145  1.00  0.00    +0.000 C 
+ATOM      7 C10  WDJ A1001      29.702   3.358  -0.173  1.00  0.00    +0.000 C 
+ATOM      8 N14  WDJ A1001      25.456   5.015  -0.059  1.00  0.00    +0.000 N 
+ATOM      9 N15  WDJ A1001      26.272   2.746   0.414  1.00  0.00    +0.000 N 
+ATOM     10 N16  WDJ A1001      28.751   2.445   0.181  1.00  0.00    +0.000 NA
+ATOM     11 N18  WDJ A1001      29.160   4.607  -0.423  1.00  0.00    +0.000 NA
+ATOM     12 O21  WDJ A1001      26.931   6.676  -0.668  1.00  0.00    +0.000 OA
+ATOM     13 O22  WDJ A1001      24.048   3.301   0.551  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   7  14
+ATOM     14 S23  WDJ A1001      31.421   3.103  -0.323  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C11  WDJ A1001      31.849   2.237  -1.910  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C2   WDJ A1001      31.303   0.776  -1.761  1.00  0.00    +0.000 C 
+BRANCH  16  21
+ATOM     17 C3   WDJ A1001      31.836  -1.271  -3.357  1.00  0.00    +0.000 C 
+ATOM     18 C4   WDJ A1001      29.629  -0.057  -3.449  1.00  0.00    +0.000 C 
+ATOM     19 C12  WDJ A1001      31.534  -1.956  -4.711  1.00  0.00    +0.000 C 
+ATOM     20 C13  WDJ A1001      29.294  -0.493  -4.888  1.00  0.00    +0.000 C 
+ATOM     21 N17  WDJ A1001      31.075  -0.003  -3.100  1.00  0.00    +0.000 N 
+ATOM     22 O19  WDJ A1001      31.365   0.059  -6.230  1.00  0.00    +0.000 OA
+ATOM     23 O20  WDJ A1001      30.068  -1.931  -6.774  1.00  0.00    +0.000 OA
+ATOM     24 S24  WDJ A1001      30.595  -1.052  -5.801  1.00  0.00    +0.000 S 
+ENDBRANCH  16  21
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   7  14
+TORSDOF 4
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -6.977      3.487      4.399
+REMARK INTER + INTRA:          -9.134
+REMARK INTER:                  -8.943
+REMARK INTRA:                  -0.192
+REMARK UNBOUND:                -0.526
+REMARK  Name = structures/xdock/7KG7_WDJ.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C11_11
+REMARK    2  A    between atoms: C2_2  and  N17_17
+REMARK    3  A    between atoms: C7_7  and  N14_14
+REMARK    4  A    between atoms: C8_8  and  N15_15
+REMARK    5  A    between atoms: C10_10  and  S23_23
+REMARK    6  A    between atoms: C11_11  and  S23_23
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C1   WDJ A1001      25.312   3.674   0.408  1.00  0.00    +0.000 C 
+ATOM      2 C5   WDJ A1001      27.784   4.550  -0.530  1.00  0.00    +0.000 C 
+ATOM      3 C6   WDJ A1001      26.738   5.544  -0.435  1.00  0.00    +0.000 C 
+ATOM      4 C7   WDJ A1001      24.334   5.894   0.213  1.00  0.00    +0.000 C 
+ATOM      5 C8   WDJ A1001      26.157   1.354   0.671  1.00  0.00    +0.000 C 
+ATOM      6 C9   WDJ A1001      27.619   3.196  -0.180  1.00  0.00    +0.000 C 
+ATOM      7 C10  WDJ A1001      29.675   3.415  -0.850  1.00  0.00    +0.000 C 
+ATOM      8 N14  WDJ A1001      25.508   5.030   0.051  1.00  0.00    +0.000 N 
+ATOM      9 N15  WDJ A1001      26.397   2.751   0.287  1.00  0.00    +0.000 N 
+ATOM     10 N16  WDJ A1001      28.801   2.481  -0.376  1.00  0.00    +0.000 NA
+ATOM     11 N18  WDJ A1001      29.097   4.669  -0.953  1.00  0.00    +0.000 NA
+ATOM     12 O21  WDJ A1001      26.854   6.726  -0.732  1.00  0.00    +0.000 OA
+ATOM     13 O22  WDJ A1001      24.227   3.281   0.822  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   7  14
+ATOM     14 S23  WDJ A1001      31.345   3.181  -1.300  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C11  WDJ A1001      32.140   4.775  -1.830  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C2   WDJ A1001      33.685   4.545  -1.701  1.00  0.00    +0.000 C 
+BRANCH  16  21
+ATOM     17 C3   WDJ A1001      34.439   7.032  -1.185  1.00  0.00    +0.000 C 
+ATOM     18 C4   WDJ A1001      35.988   5.379  -2.288  1.00  0.00    +0.000 C 
+ATOM     19 C12  WDJ A1001      35.375   8.199  -1.581  1.00  0.00    +0.000 C 
+ATOM     20 C13  WDJ A1001      36.893   6.447  -2.929  1.00  0.00    +0.000 C 
+ATOM     21 N17  WDJ A1001      34.584   5.788  -2.013  1.00  0.00    +0.000 N 
+ATOM     22 O19  WDJ A1001      35.303   8.024  -4.103  1.00  0.00    +0.000 OA
+ATOM     23 O20  WDJ A1001      37.314   8.904  -3.046  1.00  0.00    +0.000 OA
+ATOM     24 S24  WDJ A1001      36.233   7.995  -3.033  1.00  0.00    +0.000 S 
+ENDBRANCH  16  21
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   7  14
+TORSDOF 4
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:    -6.731      1.812      2.910
+REMARK INTER + INTRA:          -8.831
+REMARK INTER:                  -8.583
+REMARK INTRA:                  -0.248
+REMARK UNBOUND:                -0.526
+REMARK  Name = structures/xdock/7KG7_WDJ.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C11_11
+REMARK    2  A    between atoms: C2_2  and  N17_17
+REMARK    3  A    between atoms: C7_7  and  N14_14
+REMARK    4  A    between atoms: C8_8  and  N15_15
+REMARK    5  A    between atoms: C10_10  and  S23_23
+REMARK    6  A    between atoms: C11_11  and  S23_23
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 C1   WDJ A1001      23.653   4.499   0.961  1.00  0.00    +0.000 C 
+ATOM      2 C5   WDJ A1001      25.921   3.111   0.129  1.00  0.00    +0.000 C 
+ATOM      3 C6   WDJ A1001      24.979   2.381   0.947  1.00  0.00    +0.000 C 
+ATOM      4 C7   WDJ A1001      22.788   2.570   2.167  1.00  0.00    +0.000 C 
+ATOM      5 C8   WDJ A1001      24.392   6.553  -0.222  1.00  0.00    +0.000 C 
+ATOM      6 C9   WDJ A1001      25.753   4.455  -0.259  1.00  0.00    +0.000 C 
+ATOM      7 C10  WDJ A1001      27.634   3.793  -1.124  1.00  0.00    +0.000 C 
+ATOM      8 N14  WDJ A1001      23.848   3.147   1.334  1.00  0.00    +0.000 N 
+ATOM      9 N15  WDJ A1001      24.631   5.152   0.148  1.00  0.00    +0.000 N 
+ATOM     10 N16  WDJ A1001      26.821   4.886  -1.045  1.00  0.00    +0.000 NA
+ATOM     11 N18  WDJ A1001      27.122   2.710  -0.431  1.00  0.00    +0.000 NA
+ATOM     12 O21  WDJ A1001      25.101   1.215   1.299  1.00  0.00    +0.000 OA
+ATOM     13 O22  WDJ A1001      22.658   5.115   1.324  1.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   7  14
+ATOM     14 S23  WDJ A1001      29.154   3.653  -1.969  1.00  0.00    +0.000 S 
+BRANCH  14  15
+ATOM     15 C11  WDJ A1001      29.452   1.917  -2.558  1.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16 C2   WDJ A1001      30.735   1.424  -1.806  1.00  0.00    +0.000 C 
+BRANCH  16  21
+ATOM     17 C3   WDJ A1001      31.370   2.734   0.408  1.00  0.00    +0.000 C 
+ATOM     18 C4   WDJ A1001      32.972   2.547  -1.528  1.00  0.00    +0.000 C 
+ATOM     19 C12  WDJ A1001      32.230   3.858   1.034  1.00  0.00    +0.000 C 
+ATOM     20 C13  WDJ A1001      33.800   3.787  -1.140  1.00  0.00    +0.000 C 
+ATOM     21 N17  WDJ A1001      31.557   2.533  -1.068  1.00  0.00    +0.000 N 
+ATOM     22 O19  WDJ A1001      32.093   5.617  -0.778  1.00  0.00    +0.000 OA
+ATOM     23 O20  WDJ A1001      34.085   5.530   0.623  1.00  0.00    +0.000 OA
+ATOM     24 S24  WDJ A1001      33.055   4.854  -0.069  1.00  0.00    +0.000 S 
+ENDBRANCH  16  21
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH   7  14
+TORSDOF 4
+ENDMDL

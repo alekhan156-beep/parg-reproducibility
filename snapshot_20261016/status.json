@@ -1,0 +1,54 @@
+{
+  "state": "running",
+  "pid": 409,
+  "stages": [
+    {
+      "stage": "01_curate",
+      "returncode": 0,
+      "seconds": 7.96
+    },
+    {
+      "stage": "02_split",
+      "returncode": 0,
+      "seconds": 1.12
+    },
+    {
+      "stage": "03_ml",
+      "returncode": 0,
+      "seconds": 73.52
+    },
+    {
+      "stage": "04_chemprop_seed0",
+      "returncode": 0,
+      "seconds": 174.16
+    },
+    {
+      "stage": "04_chemprop_seed1",
+      "returncode": 0,
+      "seconds": 132.53
+    },
+    {
+      "stage": "04_chemprop_seed2",
+      "returncode": 0,
+      "seconds": 106.07
+    },
+    {
+      "stage": "05_chemprop_evaluation",
+      "returncode": 0,
+      "seconds": 1.72
+    },
+    {
+      "stage": "06_screen",
+      "returncode": 0,
+      "seconds": 11446.05
+    },
+    {
+      "stage": "07_novelty",
+      "returncode": 0,
+      "seconds": 2.88
+    }
+  ],
+  "started": "2026-10-16T13:20:14.694914",
+  "current_stage": "08_docking",
+  "updated": "2026-10-16T16:39:20.786159"
+}
